@@ -1,1 +1,1 @@
-This site was built using Jekyll Folio. © Liam Bolton 2018
+This site was built using Jekyll Folio. © 2018 Liam Bolton
