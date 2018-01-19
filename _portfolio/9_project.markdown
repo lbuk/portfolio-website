@@ -4,7 +4,7 @@ title: LIDA Omniglobe
 description: The Omniglobe
 img: /img/omniglobe.png
 ---
-I was commissioned by the <a href="http://lida.leeds.ac.uk/">Leeds Institute for Data Analytics</a> to create a global map of diabetes prevalence for their omniglobe in the data visualisation suite.
+I was commissioned by the <a href="http://lida.leeds.ac.uk/">Leeds Institute for Data Analytics (LIDA)</a> to create a global map of diabetes prevalence for their omniglobe in the data visualisation suite.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/omniglobe.png" alt="" title=""/>
