@@ -16,7 +16,7 @@ During 2017 I was funded by the Department for Transport to explore how machine 
 <hr/>
 <span class="contacticon center">
 	<a href="mailto:liamthomasbolton@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="www.linkedin.com/in/liam-bolton-b1976b72" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/liam-thomas-bolton-b1976b72/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/LiamBoltonUK" target="_blank"><i class="fa fa-twitter-square"></i></a>
     <a href="https://github.com/lbuk" target="_blank"><i class="fa fa-github-square"></i></a>
 </span>
