@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Road Casualties
 description: An exploratory analysis of road casualties in Leeds
-img: /img/Pedestrian Casualty Hotspots - Heatmap.png
+img: /img/Cycling Casualty Map - Dot Density.png
 ---
 
 A project that involved analysing road casualties in Leeds. <a href="https://datamillnorth.org/products/cycling-casualty-map/">Cycling Casualty Maps</a> and <a href="https://datamillnorth.org/products/pedestrian-casualty-map/">Pedestrian Casualty Maps</a> were published on Data Mill North.
