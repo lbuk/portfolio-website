@@ -11,5 +11,5 @@ I was commissioned by the <a href="http://lida.leeds.ac.uk/">Leeds Institute for
 	<img class="col two" src="{{ site.baseurl }}/img/Global - Adult Diabetes Prevalence (LIDA).png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Visualising Movement Flows.
+	The Omniglobe.
 </div>
