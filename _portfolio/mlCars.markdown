@@ -13,5 +13,5 @@ You can view the project - including code, reports and tutorials - on <a href="h
 	<img class="col two" src="{{ site.baseurl }}/img/mlCars_intelligent_mobility.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	The Omniglobe at LIDA and the print map.
+	Data visualisations from the policy report.
 </div>
