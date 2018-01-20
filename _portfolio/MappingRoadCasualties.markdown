@@ -13,9 +13,9 @@ One of the main goals is to continue bringing the principles of Vision Zero to L
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/Cycling Casualty Map - Dot Density.png" alt="" title=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/Pedestrian Casualty Map - Dot Density.png" alt="" title=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/Pedestrian Casualty Hotspots - Heatmap.png" alt="" title=""/>
+	<img class="col two" src="{{ site.baseurl }}/img/Pedestrian Casualty Map - Dot Density.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Maps of Road Casualties in Leeds, 2009-2015.
+	Selection pf Maps of Road Casualties.
 </div>
+
