@@ -9,7 +9,7 @@ A Department for Transport-funded study that explored how machine learning and b
 You can view the project - including code, reports and tutorials - on <a href="https://github.com/Robinlovelace/mlCars">Github</a>.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/mlCars_commutes_vis.png" alt="" title=""/>
+	<img class="col one" src="{{ site.baseurl }}/img/mlCars_traffic.png" alt="" title=""/>
 	<img class="col two" src="{{ site.baseurl }}/img/mlCars_intelligent_mobility.png" alt="" title=""/>
 </div>
 <div class="col three caption">
