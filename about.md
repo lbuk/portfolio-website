@@ -5,10 +5,11 @@ permalink: /about/
 ---
 
 I'm an Urban Data Analyst and MSc student at The Bartlett, University College London. 
+
 Welcome to my portfolio website.
 
 <br/>
-<b>Background and Experience</b>
+<b>Background</b>
 <br/>
 My background resides at the intersection of data science, design and policy. I'm currently undertaking an MSc Smart Cities and Urban Analytics at the <a href="https://www.ucl.ac.uk/bartlett/casa/">Centre for Advanced Spatial Analysis (CASA)</a> at The Bartlett, University College London whilst working part-time as an Urban Data Analyst at <a href="http://www.redninja.co.uk/">Red Ninja Studios</a>, a design-led technology company, and <a href="http://isensing.co.uk/">iSensing</a>, a company that provides IoT and mobility analytics. Specialising in data visualisation and GIS, I'm highly skilled with R, QGIS, Tableau and Python.
 
