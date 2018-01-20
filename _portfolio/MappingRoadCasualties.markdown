@@ -9,13 +9,18 @@ A project that involved analysing road casualties in Leeds. <a href="https://dat
 
 On April 27th Student Data Labs ran a Vision Zero Innovation Lab as part of the Leeds Digital Festival. The aim of the Vision Zero Innovation Lab was to explore how to reduce the number of road fatalities to zero in the city.
 
-One of the main goals is to continue bringing the principles of Vision Zero to Leeds. Using open data sourced from Leeds City Council via the Data Mill North, you can now explore and derive insight into where cycling casualties resulting from road traffic accidents occurred in Leeds (2009-2015).
+One of the main goals is to continue bringing the principles of Vision Zero to Leeds. Using open data sourced from Leeds City Council via the Data Mill North, you can now explore and derive insight into where cycling casualties resulting from road traffic accidents occurred in Leeds.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/Cycling Casualty Map - Dot Density.png" alt="" title=""/>
+</div>
+<div class="col three caption">
+	Cycling Casualty Map. 
+</div>
+
+<div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/Pedestrian Casualty Map - Dot Density.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Selection pf Maps of Road Casualties.
+	Pedestrian Casualty Map. 
 </div>
-
