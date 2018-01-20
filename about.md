@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I'm an Urban Data Analyst and MSc student at The Bartlett, University College London. 
+I'm an Urban Data Analyst and MSc student at The Bartlett, University College London. Welcome to my portfolio website.
 
 <br/>
 <b>Background and Experience</b>
