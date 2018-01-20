@@ -13,5 +13,5 @@ An R package, brownfieldgrids, for creating Mile x Mile grid maps of OpenStreetM
 	<img class="col one" src="{{ site.baseurl }}/img/limehouse_osm_nlud_map.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	OSM Grid maps of Limehouse, London Borough of Tower Hamlets.
+	OSM grid maps of brownfield land in Limehouse, London Borough of Tower Hamlets.
 </div>
