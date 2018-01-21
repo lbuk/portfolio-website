@@ -11,5 +11,5 @@ As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-distric
 	<img class="col two" src="{{ site.baseurl }}/img/madrid_map.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Mapping movement flows in Madrid using real-time movement data.
+	Mapping movement flows in Madrid using real-time sensor data.
 </div>
