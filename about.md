@@ -24,5 +24,5 @@ During 2017 I was funded by the Department for Transport to explore how machine 
 </span>
 
 <div class="col three caption">
-	The best way to contact me is via email.
+	This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a>. &#169; 2018 Liam Bolton.
 </div>
