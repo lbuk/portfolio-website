@@ -202,6 +202,7 @@ pre {
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
+    opacity: 1;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
