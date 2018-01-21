@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Utility Master Planning
-description: A data-driven platform for downloading planning applications
+description: A platform for exploring planning applications
 img: /img/UMP_Map_Liverpool.png
 ---
 
