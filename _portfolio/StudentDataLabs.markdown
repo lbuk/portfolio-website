@@ -14,5 +14,5 @@ Based in Leeds and established in 2015, <a href="https://studentdatalabs.com/">S
 <div class="col three caption">
 </div>
 <div class="col three caption">
-	Empty Housing Innovation Lab.
+	Presenting at the Empty Housing Innovation Lab.
 </div>
