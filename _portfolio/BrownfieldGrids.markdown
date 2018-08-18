@@ -14,9 +14,7 @@ Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrid
 </div>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/" alt="" title=""/>
 	<img class="col two" src="{{ site.baseurl }}/img/register_nlud_rainham_consul_avenue.png" alt="" title=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/" alt="" title=""/>
 </div>
 
 <div class="col three caption">
