@@ -1,0 +1,17 @@
+---
+layout: post
+title: Brownfield Land as Urban Islands
+description: Mapping London's Brownfield Land as Urban Islands
+img: /img/coastalv_waterlines_wandsworthlondontest_qgiscoastalv_testii.jpeg
+---
+  
+Maps that illustrate London's brownfield land as 'Urban Islands' using waterlines and coastal vignettes, cartographic techniques for showing the motion of water and figure-ground.
+
+<div class="img_row">
+  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
+  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_higgsind_qgiscoastalv_test.jpeg" alt="" title=""/>
+  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_thealchemist_qgiscoastalv_test.jpeg" alt="" title=""/>
+  </div>
+  <div class="col three caption">
+  London's brownfield land as 'Urban Islands'.
+</div>
