@@ -5,7 +5,9 @@ description: Mapping London's Brownfield Land as 'Urban Islands'
 img: /img/coastalv_waterlines_wandsworthlondontest_qgiscoastalv_testii.jpeg
 ---
   
-A project that maps London's brownfield land as 'Urban Islands' using waterlines and coastal vignettes, cartographic techniques for illustrating the motion of water and establishing figure-ground. Brownfields are previously developed sites, often residing unused or underutilised. This project utilises open data from the Brownfield Register, established in 2018 to drive construction of new homes on brownfield land. 
+A project that maps London's brownfield land as 'Urban Islands' using waterlines and coastal vignettes, cartographic techniques for illustrating the motion of water and establishing figure-ground. 
+
+Brownfields sites are previously developed, often residing unused, abandoned or underutilised. This project makes use of open data from the Brownfield Register, established in 2017-2018 to drive construction of new homes on brownfield land. 
 
 <div class="img_row">
   <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
