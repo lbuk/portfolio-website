@@ -8,8 +8,7 @@ In February 2016 was commissioned by the <a href="http://lida.leeds.ac.uk/">Leed
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/omniglobe_diabetes.png" alt="" title=""/>
-	<img class="col two" src="{{ site.baseurl }}/img/Global - Adult Diabetes Prevalence (LIDA).png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	The Omniglobe at LIDA and the print map.
+	The Omniglobe at LIDA.
 </div>
