@@ -2,7 +2,7 @@
 layout: post
 title: brownfieldgrids
 description: An R package for creating minimalistic maps of brownfield land in London
-img: /img/battersea_power_station.png
+img: /img/osm_nlud_woolwich_dockyard.png
 ---
 
 Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrids">brownfieldgrids</a>, for creating mile x mile grid maps of brownfield land in London using crowdsourced geospatial data from OpenStreetMap and open data from the 2018 Brownfield Register and the 2009-2010 National Land Use Database (NLUD). The package provides functions for creating minimalistic and exploratory maps of brownfield sites using urban data sources.
@@ -12,6 +12,7 @@ Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrid
 	<img class="col one" src="{{ site.baseurl }}/img/limehouse_osm_satellite_map.png" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/limehouse_osm_nlud_map.png" alt="" title=""/>
 </div>
+
 <div class="col three caption">
 	brownfieldgrids maps of brownfield land in Limehouse, London Borough of Tower Hamlets.
 </div>
