@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I'm an award-winning MSc student at The Bartlett, University College London. 
+I'm an MSc student at The Bartlett, University College London. 
 
 My background resides at the intersection of data science, design and policy. I'm currently undertaking an MSc Smart Cities and Urban Analytics at the <a href="https://www.ucl.ac.uk/bartlett/casa/">Centre for Advanced Spatial Analysis (CASA)</a> at The Bartlett, University College London. Specialising in data visualisation and spatial analysis, I've worked with research labs, government departments, news agencies and Innovation Labs. I'm highly skilled with R, QGIS and Tableau. I'm also experienced with Python, PostgreSQL, Adobe Illustrator and Photoshop as well as a variety of data visualisation and mapping tools.
 
