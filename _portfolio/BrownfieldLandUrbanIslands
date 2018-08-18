@@ -10,8 +10,9 @@ A project that maps London's brownfield land as 'Urban Islands' using waterlines
 Brownfield land is previously developed, often residing unused or underutilised. This project makes use of open data from the Brownfield Register, established in 2017-2018 to drive construction of new homes on brownfield land. 
 
 <div class="img_row">
-  <img class="col two" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
-  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_higgsind_qgiscoastalv_test.jpeg" alt="" title="" style="height:100%"/>
+  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
+  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_higgsind_qgiscoastalv_test.jpeg" alt="" title=""/>
+  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_thealchemist_qgiscoastalv_test.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
