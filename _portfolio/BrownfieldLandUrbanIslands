@@ -11,11 +11,7 @@ Brownfield land is previously developed, often residing unused or underutilised.
 
 <div class="img_row">
   <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_higgsind_qgiscoastalv_test.jpeg" alt="" title=""/>
-  <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_thealchemist_qgiscoastalv_test.jpeg" alt="" title=""/>
-</div>
-
-<div class="img_row">
-  <img class="col three" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
+  <img class="col two" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
