@@ -14,13 +14,8 @@ One of the main goals is to continue bringing the principles of Vision Zero to L
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Cycling Casualty Map - Dot Density.png" alt="" title=""/>
 </div>
-<div class="col three caption">
-	Cycling Casualty Map. 
-</div>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Pedestrian Casualty Map - Dot Density.png" alt="" title=""/>
 </div>
-<div class="col three caption">
-	Pedestrian Casualty Map. 
-</div>
+
