@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I'm an MSc student at The Bartlett, University College London. I work at the intersection of data, design and technology.
+I'm an MSc student at The Bartlett, University College London. I work at the intersection of data, design, technology and cities.
 
 My background resides at the intersection of data science, design and policy. I'm currently undertaking an MSc Smart Cities and Urban Analytics at the <a href="https://www.ucl.ac.uk/bartlett/casa/">Centre for Advanced Spatial Analysis (CASA)</a> at The Bartlett, University College London. Specialising in data visualisation and spatial analysis, I've worked with research labs, government departments, news agencies and Innovation Labs. I'm highly skilled with a variety of programming languages and tools.
 
