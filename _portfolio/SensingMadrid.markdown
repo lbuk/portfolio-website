@@ -9,7 +9,7 @@ As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-distric
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/Flows_Chord.png" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/isensing_barcelonaexpo_bar.jpeg" alt="" title=""/>
-	<img class="col two" src="{{ site.baseurl }}/img/madrid_map.png" alt="" title=""/>
+	<img class="col one" src="{{ site.baseurl }}/img/madrid_map.png" alt="" title=""/>
 </div>
 <div class="col three caption">
 	Visualising movement flows using real-time sensor data.
