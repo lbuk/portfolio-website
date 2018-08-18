@@ -13,7 +13,12 @@ Brownfield land is previously developed, often residing unused or underutilised.
   <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
   <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_higgsind_qgiscoastalv_test.jpeg" alt="" title=""/>
   <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_thealchemist_qgiscoastalv_test.jpeg" alt="" title=""/>
-  </div>
-  <div class="col three caption">
+</div>
+
+<div class="img_row">
+  <img class="col two" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
+</div>
+
+<div class="col three caption">
   A selection of maps showing London's brownfield land as 'Urban Islands'.
 </div>
