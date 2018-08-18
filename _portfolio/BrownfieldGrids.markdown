@@ -13,6 +13,10 @@ Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrid
 	<img class="col one" src="{{ site.baseurl }}/img/osm_nlud_rainham_consul_avenue.png" alt="" title=""/>
 </div>
 
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/register_nlud_rainham_consul_avenue.png" alt="" title=""/>
+</div>
+
 <div class="col three caption">
 	Rainham, London Borough of Havering.
 </div>
