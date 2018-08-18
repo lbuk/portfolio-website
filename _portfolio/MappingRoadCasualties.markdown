@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Mapping Road Casualties
-description: An exploratory analysis of road casualties in Leeds
+description: Visualising road casualties in Leeds
 img: /img/Cycling Casualty Map - Dot Density.png
 ---
 
-A project that involved analysing road casualties in Leeds. <a href="https://datamillnorth.org/products/cycling-casualty-map/">Cycling Casualty Maps</a> and <a href="https://datamillnorth.org/products/pedestrian-casualty-map/">Pedestrian Casualty Maps</a> were published on Data Mill North.
+A project that involved analysing and visualising road casualties in Leeds. <a href="https://datamillnorth.org/products/cycling-casualty-map/">Cycling Casualty Maps</a> and <a href="https://datamillnorth.org/products/pedestrian-casualty-map/">Pedestrian Casualty Maps</a> were published on Data Mill North.
 
 On April 27th Student Data Labs ran a Vision Zero Innovation Lab as part of the Leeds Digital Festival. The aim of the Vision Zero Innovation Lab was to explore how to reduce the number of road fatalities to zero in the city.
 
