@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Urban Islands
-description: Mapping London's Land as 'Urban Islands'
+description: Mapping London's land as 'Urban Islands'
 img: /img/coastalv_waterlines_wandsworthlondontest_qgiscoastalv_testii.jpeg
 ---
   
-A project that illustrates how land use can create 'Urban Islands'. It makes use of using waterlines and coastal vignettes, cartographic techniques for illustrating the motion of water and establishing figure-ground. The examples below visualise 2018 Brownfield Register sites as islands.
+A project that visualises land use as 'Urban Islands'. It makes use of using waterlines and coastal vignettes, cartographic techniques for illustrating the motion of water and establishing figure-ground. The example maps below show 2018 Brownfield Register sites.
 
 <div class="img_row">
   <img class="col one" src="{{ site.baseurl }}/img/coastalv_waterlines_mastquay_qgiscoastalv_testii.jpeg" alt="" title=""/>
