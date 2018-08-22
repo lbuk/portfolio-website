@@ -5,7 +5,7 @@ description: An R package for creating minimalistic maps of brownfield land in L
 img: /img/osm_nlud_rainham_consul_avenue.png
 ---
 
-Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrids">brownfieldgrids</a>, for creating mile x mile grid maps of brownfield land in London using crowdsourced geospatial data from OpenStreetMap and open data from the 2018 Brownfield Register and the 2009-2010 National Land Use Database (NLUD). The package provides functions for creating minimalistic and exploratory maps of brownfield sites using urban data sources. This project formed part of my thesis - Anatomy of a Brownfield: Mapping Previously Developed Land in London.
+Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrids">brownfieldgrids</a>, for creating mile x mile grid maps of brownfield land in London using crowdsourced geospatial data from OpenStreetMap and open data from the 2018 Brownfield Register and the 2009-2010 National Land Use Database (NLUD). The package provides functions for creating minimalistic and exploratory maps of brownfield sites using urban data sources. This formed part of my thesis - Anatomy of a Brownfield: Mapping Previously Developed Land in London - that provided a spatial and temporal analysis of brownfield land.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/borough_rainham_consul_avenue.png" alt="" title=""/>
