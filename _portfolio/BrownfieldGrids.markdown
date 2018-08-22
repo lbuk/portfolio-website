@@ -5,7 +5,7 @@ description: An R package for creating minimalistic maps of brownfield land in L
 img: /img/osm_nlud_rainham_consul_avenue.png
 ---
 
-Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrids">brownfieldgrids</a>, for creating mile x mile grid maps of brownfield land in London using crowdsourced geospatial data from OpenStreetMap and open data from the 2018 Brownfield Register and the 2009-2010 National Land Use Database (NLUD). The package provides functions for creating minimalistic and exploratory maps of brownfield sites using urban data sources. This formed part of my thesis - Anatomy of a Brownfield: Mapping Previously Developed Land in London - that provided a spatial and temporal analysis of brownfield land.
+Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrids">brownfieldgrids</a>, for creating mile x mile grid maps of brownfield land in London using crowdsourced geospatial data from OpenStreetMap and open data from the 2018 Brownfield Register and the 2009-2010 National Land Use Database (NLUD). The package provides functions for creating minimalistic and exploratory maps of brownfield sites using urban data sources.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/borough_rainham_consul_avenue.png" alt="" title=""/>
@@ -17,7 +17,10 @@ Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrid
 	<img class="col two" src="{{ site.baseurl }}/img/register_nlud_rainham_consul_avenue.png" alt="" title=""/>
 </div>
 
+The project formed part of my thesis - Anatomy of a Brownfield: Mapping Previously Developed Land in London. The aim of the research was to provide a spatial and temporal analysis of brownfield land.
+
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/brownfield_register_greater_london.png" alt="" title=""/>
+	<img class="col one" src="{{ site.baseurl }}/img/brownfield_register_la_choropleth.jpg" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/brownfield_register_planning_st_greater_london.png" alt="" title=""/>
 </div>
