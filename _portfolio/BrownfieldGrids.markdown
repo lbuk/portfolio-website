@@ -24,3 +24,7 @@ The project formed part of my thesis - Anatomy of a Brownfield: Mapping Previous
 	<img class="col one" src="{{ site.baseurl }}/img/brownfield_register_la_choropleth.jpg" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/brownfield_register_planning_st_greater_london.png" alt="" title=""/>
 </div>
+
+<div class="col three caption">
+  A selection of maps and charts from the project.
+</div>
