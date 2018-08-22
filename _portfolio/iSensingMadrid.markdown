@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sensing Madrid
+title: iSensing Madrid
 description: Analysing Real-Time Movement Data
 img: /img/Flows_Chord.png
 ---
-As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-district-city-of-madrid/">iSensing</a>, an IoT company, I was responsble for analysing real-time movement data from sensors. The results of the project were used to optimise street cleaning in the city.
+As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-district-city-of-madrid/">iSensing</a>, an IoT company, I was responsble for analysing and visualising real-time movement data from sensors in Madrid's Chamberi district. The results of the project were used to optimise street cleaning in the city.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/Flows_Chord.png" alt="" title=""/>
