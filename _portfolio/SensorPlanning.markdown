@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planning for Real-Time Sensors
-description: Creating maps for real-time sensor deployment
+description: Creating maps for real-time sensor planning and deployment
 img: /img/redninja_sensor_planning_map_example.png
 ---
   
