@@ -14,7 +14,7 @@ Brownfieldgrids is an R package, <a href="https://github.com/lbuk/brownfieldgrid
 </div>
 
 
-This project formed part of my thesis - Anatomy of a Brownfield: Mapping Previously Developed Land in London. The aim of the research was to provide a spatial and temporal analysis of brownfield land at city-level, district-level and street-level using a variety of urban data sources such as the 2018 Brownfield Register. In the process, it not only developed the brownfieldgrids package, it also revealed new insights about previously developed land between 2009-2010 and 2018.
+This project formed part of my thesis - Anatomy of a Brownfield: Mapping Previously Developed Land in London. The aim of the research was to provide a spatial and temporal analysis of brownfield land at city-level, district-level and street-level using a variety of urban data sources such as the 2018 Brownfield Register. In the process, it not only developed the brownfieldgrids package, it also revealed new insights about previously developed land in London between 2009-2010 and 2018.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/brownfield_register_greater_london.png" alt="" title=""/>
