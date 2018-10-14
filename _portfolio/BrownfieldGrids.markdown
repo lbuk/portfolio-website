@@ -13,8 +13,7 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 	<img class="col portfolio_25" src="{{ site.baseurl }}/img/osm_nlud_rainham_consul_avenue.png" alt="" title=""/>
 	<img class="col portfolio_25" src="{{ site.baseurl }}/img/register_rainham_consul_avenue.png" alt="" title=""/>
 </div>
-
-
+<br>
 This project formed part of my thesis - Anatomy of a Brownfield Site: Mapping Previously Developed Land in London. The aim of the research was to provide a spatial and temporal analysis of brownfield land at city-level, district-level and street-level using a variety of urban data sources such as the 2018 Brownfield Register. 
 
 In the process, it not only developed the brownfieldgrids tool, it also revealed new insights about previously developed land in London between 2009-2010 and 2018. For example, it found that the total area of brownfield land in outer London increased between 2009-2010 and 2018 while brownfield land in inner London decreased. The study also found that small brownfield sites (i.e. less than 0.25 hectares in size) had a stronger presence in 2018 compared to 2009-2010. This is led by the Greater London Authority's <a href="https://www.london.gov.uk/what-we-do/planning/london-plan">London Plan</a>, a city-wide strategy for spatial development, which makes a strong case for increasing the delivery of new homes on small sites.
