@@ -253,7 +253,7 @@ padding: $img_spacing;
 float: right;
 }
 .one {
-width:25%;
+width:33.33%;
 }
 .two {
 width: 66.66%;
@@ -261,6 +261,9 @@ width: 66.66%;
 .three{
 width: 100%;
 }
+.homepage{
+width: 25%;    
+}    
 .caption{
 height: 100%;
 color: $caption_color;
