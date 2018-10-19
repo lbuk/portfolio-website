@@ -2,7 +2,7 @@
 layout: post
 title: Print Maps
 description:
-img: /img/chicago_circle_in_square_1575sqm.jpg
+img: /img/paris_arc_circle_in_square.jpg
 ---
 
 A collection of print maps. 
