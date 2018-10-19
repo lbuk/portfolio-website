@@ -11,7 +11,7 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/chicago_circle_in_square_1575sqm.jpg" alt="" title=""/>
 </div>
 <div class="col caption">
-	Chicago Circle Inscribed in Square.
+	Circle Inscribed in Square, Chicago.
 </div>
 
 <br>
@@ -38,5 +38,5 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/paris_arc_circle_in_square.jpg" alt="" title=""/>
 </div>
 <div class="col caption">
-	Paris Circle Inscribed in Square.
+	Circle Inscribed in Square, Paris.
 </div>
