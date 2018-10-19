@@ -7,6 +7,10 @@ img: /img/chicago_circle_in_square_1575sqm.jpg
 
 A collection of print maps. 
 
+<img src="chicago_circle_in_square_1575sqm.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/chicago_circle_in_square_1575sqm.jpg" alt="" title=""/>
 </div>
