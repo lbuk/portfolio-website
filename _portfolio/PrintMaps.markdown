@@ -29,7 +29,7 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
 </div>
 <div class="col caption">
-	Minimalistic maps of the London Borough of Southwark
+	Minimalistic map of the London Borough of Southwark
 </div>
 
 <br>
