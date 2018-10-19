@@ -35,7 +35,7 @@ A collection of print maps.
 	<img class="col two" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
 	<img class="col two" src="{{ site.baseurl }}/img/brent.jpeg" alt="" title=""/>
 </div>
-<div class="col three caption">
+<div class="col two caption">
 	Minimalistic maps of London boroughs
 </div>
 
