@@ -26,10 +26,10 @@ A collection of print maps.
 <br>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
-	<img class="col two" src="{{ site.baseurl }}/img/brent.jpeg" alt="" title=""/>
+	<img class="portfolio_50" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
+	<img class="portfolio_50" src="{{ site.baseurl }}/img/brent.jpeg" alt="" title=""/>
 </div>
-<div class="col two caption">
+<div class="col three caption">
 	Minimalistic maps of London boroughs
 </div>
 
