@@ -32,10 +32,11 @@ A collection of print maps.
 <br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
+	<img class="col two" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
+	<img class="col two" src="{{ site.baseurl }}/img/brent.jpeg" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Minimalistic map of the London Borough of Southwark
+	Minimalistic maps of London boroughs
 </div>
 
 <br>
@@ -49,9 +50,3 @@ A collection of print maps.
 
 <br>
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/brent.jpeg" alt="" title=""/>
-</div>
-<div class="col three caption">
-	Minimalistic Map of London Borough of Brent
-</div>
