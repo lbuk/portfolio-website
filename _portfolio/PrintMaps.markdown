@@ -14,6 +14,8 @@ A collection of print maps.
 	Chicago Circle Inscribed in Square.
 </div>
 
+![](chicago_circle_in_square_1575sqm.jpg)
+
 <br>
 
 <div class="img_row">
