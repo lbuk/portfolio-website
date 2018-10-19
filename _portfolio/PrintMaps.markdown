@@ -20,7 +20,7 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/greater_london_building_footprints.jpg" alt="" title=""/>
 </div>
 <div class="col caption">
-	London Buildings
+	Buildings of London
 </div>
 
 <br>
@@ -29,7 +29,7 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
 </div>
 <div class="col caption">
-	Minimalistic map of the London Borough of Southwark
+	Map of the London Borough of Southwark
 </div>
 
 <br>
