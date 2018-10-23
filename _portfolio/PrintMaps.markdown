@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Print Maps
-description:
+description: Collection of print maps
 img: /img/paris_arc_circle_in_square.jpg
 ---
 
-A collection of print maps. 
+A collection of print maps. Physical and digital prints are currently on sale at <a href="https://www.etsy.com/uk/shop/Cartographically/">Etsy</a>. 
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/chicago_circle_in_square_1575sqm.jpg" alt="" title=""/>
