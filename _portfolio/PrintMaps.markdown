@@ -40,3 +40,12 @@ A collection of print maps.
 <div class="col caption">
 	Circle Inscribed in Square, Paris
 </div>
+
+<br>
+
+<div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/contours_of_london.jpeg" alt="" title=""/>
+</div>
+<div class="col caption">
+	Contours of London
+</div>
