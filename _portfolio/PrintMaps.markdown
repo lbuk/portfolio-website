@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Print Maps
-description: Collection of print maps
+description: A collection of print maps
 img: /img/paris_arc_circle_in_square.jpg
 ---
 
