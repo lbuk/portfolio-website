@@ -40,5 +40,3 @@ A collection of print maps.
 <div class="col caption">
 	Circle Inscribed in Square, Paris.
 </div>
-
-<br>
