@@ -35,10 +35,10 @@
             }
         }
     @include media-query($on-palm) {
-    position: fixed;
+    position: relative;
     top: 0px;
-    right: 10px;
-    text-align: right;
+    right: 0px;
+    text-align: center;
     &:hover .trigger {
     display: block;
     padding-bottom: 5px;
