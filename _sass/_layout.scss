@@ -2,51 +2,51 @@
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 1px solid $grey-color-light;
-background-color: #fff;
-opacity: 0.75;
-position:fixed;
-left:0px;
-top:0px;
-height:56px;
-width:100%;
-z-index: 50;
+    border-bottom: 1px solid $grey-color-light;
+    background-color: #fff;
+    opacity: 0.75;
+    position:fixed;
+    left:0px;
+    top:0px;
+    height:56px;
+    width:100%;
+    z-index: 50;
 }
 
 .site-title {
-font-size: 20px;
-line-height: $nav-height;
-letter-spacing: -1px;
-margin-bottom: 0;
-&:hover {
-text-decoration: none;
-color: $theme-color;
-    }
+    font-size: 20px;
+    line-height: $nav-height;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    &:hover {
+    text-decoration: none;
+    color: $theme-color;
+        }
 }
 .site-nav {
-float: center;
-text-align: center;
-line-height: $nav-height;
-.page-link{
-line-height: $base-line-height;
-        // Gaps between nav items, but not on the first one
-&:not(:first-child) {
-margin-left: 60px;
+    float: center;
+    text-align: center;
+    line-height: $nav-height;
+    .page-link{
+    line-height: $base-line-height;
+            // Gaps between nav items, but not on the first one
+    &:not(:first-child) {
+    margin-left: 60px;
+            }
         }
-    }
-@include media-query($on-palm) {
-position: fixed;
-top: 0px;
-right: 10px;
-text-align: right;
-&:hover .trigger {
-display: block;
-padding-bottom: 5px;
+    @include media-query($on-palm) {
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    text-align: right;
+    &:hover .trigger {
+    display: block;
+    padding-bottom: 5px;
+            }
+    .page-link {
+    display: line;
+            }
         }
-.page-link {
-display: line;
-        }
-    }
 }
 
 .header-bar{
@@ -63,11 +63,12 @@ display: line;
     z-index: 25;
     h1{
         color:#000000;
-        font-size: 50px;
+        font-size: 45px;
         margin-top: 15%;
+        font-weight: bold;
     }
     h2{
-        font-size: 30px;
+        font-size: 25px;
     }
 }
 
@@ -75,72 +76,72 @@ display: line;
  * Site footer  **********************************************************
  */
 .site-footer {
-border-top: 1px solid $grey-color-dark;
-font-size: 10px;
-background-color: $grey-color-dark;
-padding: 2px;
-color: #000000;
-position:fixed;
-text-align: center;
-opacity: 1;    
-left:0px;
-bottom:0px;
-height:25px;
-width:100%;
+    border-top: 1px solid $grey-color-dark;
+    font-size: 10px;
+    background-color: $grey-color-dark;
+    padding: 2px;
+    color: #000000;
+    position:fixed;
+    text-align: center;
+    opacity: 1;    
+    left:0px;
+    bottom:0px;
+    height:25px;
+    width:100%;
 }
 /**
  * Pagination   **********************************************************
  */
 .pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-text-align: center;
-width: 100%;
-position: fixed;
-bottom: 50px;
-}
-.paginationicon {
-font-size: 50px;
-a {
-color: $theme-color;
+    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 50px;
     }
+    .paginationicon {
+    font-size: 50px;
+    a {
+    color: $theme-color;
+        }
 }
 /**
  * Page content   **********************************************************
  */
 .page-content {
-padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+    padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
-font-size: 20px;
+    font-size: 20px;
 }
 .post-list {
-margin: 0px 0;
-list-style: none;
-    > li {
-margin-bottom: $vertical-spacing-unit;
-    }
+    margin: 0px 0;
+    list-style: none;
+        > li {
+    margin-bottom: $vertical-spacing-unit;
+        }
 }
 .contacticon {
-font-size: 60px;
-display:block;
-margin: 10px;
+    font-size: 60px;
+    display:block;
+    margin: 10px;
 }
 .center{
-text-align: center;
+    text-align: center;
 }
 /**
  * Posts  **********************************************************
  */
 .post-header {
-margin-bottom: $vertical-spacing-unit;
+    margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 42px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 36px;
-    }
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+    @include media-query($on-laptop) {
+    font-size: 36px;
+        }
 }
 .post-content {
 h2 {
