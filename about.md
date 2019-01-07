@@ -19,5 +19,5 @@ Between 2017 and 2018 I worked as an Urban Data Analyst at <a href="http://www.r
 </span>
 
 <div class="col three caption">
-	This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a>. &#169; 2018 Liam Bolton.
+	This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a>. &#169; 2019 Liam Thomas Bolton.
 </div>
