@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: About
+permalink: /About/
 ---
 
 I work at the intersection of design, data and cities.
