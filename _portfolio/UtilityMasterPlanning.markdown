@@ -11,5 +11,5 @@ Developed by Red Ninja, a design-led technology company that specialises in Smar
 	<img class="col" src="{{ site.baseurl }}/img/UMP_Map.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Utility Master Planning Map of Planning Applications in Liverpool.
+	Utility Master Planning tool showing Planning Applications in Liverpool.
 </div>
