@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iSensing Madrid
-description: Analysing Real-Time Movement Data
+description: Analysing real-time movement data
 img: /img/Flows_Chord.png
 ---
 As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-district-city-of-madrid/">iSensing</a>, an IoT company, I was responsble for analysing and visualising real-time movement data from sensors in Madrid's Chamberi district. The results of the project were used to optimise street cleaning in the city.
