@@ -10,7 +10,10 @@ A project that involved analysing and visualising road casualties in Leeds. <a h
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/Cycling Casualty Map - Dot Density II.png" alt="" title=""/>
 </div>
+
 <br>
+<br>
+
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/Pedestrian Casualty Map - Dot Density II.png" alt="" title=""/>
 </div>
