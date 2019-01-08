@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iSensing Madrid
+title: Visualising IoT Data in Madrid
 description: Analysing real-time movement data
 img: /img/Flows_Chord.png
 ---
