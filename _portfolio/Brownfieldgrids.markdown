@@ -11,7 +11,7 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 	<img class="portfolio_25" src="{{ site.baseurl }}/img/limehouse_osm_borough.png" alt="" title=""/>
 	<img class="portfolio_25" src="{{ site.baseurl }}/img/limehouse_osm_satellite_map.png" alt="" title=""/>
 	<img class="portfolio_25" src="{{ site.baseurl }}/img/limehouse_osm_nlud_map.png" alt="" title=""/>
-  <img class="portfolio_25" src="{{ site.baseurl }}/img/limehouse_nlud_register_map.png" alt="" title=""/>
+  	<img class="portfolio_25" src="{{ site.baseurl }}/img/limehouse_nlud_register_map.png" alt="" title=""/>
 </div>
 
 The tool for mapping brownfield land formed part of my MSc thesis at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London. 
