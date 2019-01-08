@@ -8,10 +8,10 @@ img: /img/limehouse_osm_nlud_zoom_map.png
 Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R package</a> for creating maps of brownfield land in London using the 2018 Brownfield Register, OpenStreetMap and the 2009-2010 National Land Use Database (NLUD). The package provides functions for creating minimalistic and exploratory maps of brownfield sites.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/limehouse_osm_borough.png" alt="" title=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/limehouse_osm_satellite_map.png" alt="" title=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/limehouse_osm_nlud_map.png" alt="" title=""/>
-  <img class="col one" src="{{ site.baseurl }}/img/limehouse_nlud_register_map.png" alt="" title=""/>
+		<img class="col homepage" src="{{ site.baseurl }}/img/limehouse_osm_borough.png" alt="" class="responsive" align="middle" title=""/>
+		<img class="col homepage" src="{{ site.baseurl }}/img/limehouse_osm_satellite_map.png" alt="" class="responsive" align = "middle" title=""/>
+		<img class="col homepage" src="{{ site.baseurl }}/img/limehouse_osm_nlud_map.png" alt="" class="responsive" align="middle" title=""/>
+		<img class="col homepage" src="{{ site.baseurl }}/img/limehouse_nlud_register_map.png" alt="" class="responsive" align = "middle" title=""/>
 </div>
 
 The tool for mapping brownfield land formed part of my MSc thesis at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London. 
