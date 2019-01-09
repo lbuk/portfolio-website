@@ -12,7 +12,7 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 </div>
 
 <div class="col three caption">
-	A map comparing data from the 2009-2010 NLUD and the 2018 Brownfield Register
+	A map comparing data from the 2009-2010 NLUD and the 2018 Brownfield Register in Upper Edmonton
 </div>
 
 <br>
