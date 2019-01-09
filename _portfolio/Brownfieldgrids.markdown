@@ -25,7 +25,7 @@ The tool for mapping brownfield land formed part of my MSc thesis at The Bartlet
 </div>
 
 <div class="col three caption">
-	Case Studies and Opportunity Areas
+	Case studies and opportunity areas
 </div>
 
 <br>
