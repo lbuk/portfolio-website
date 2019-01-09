@@ -27,7 +27,15 @@ The aim of the research was to provide a spatial and temporal analysis of brownf
 </div>
 
 <div class="col three caption">
-	2018 Brownfield Register hectares by London borough
+	Hectares by London borough, 2018 Brownfield Register
+</div>
+
+<div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/brownfield_register_2018_land_ownership.png" alt="" title=""/>
+</div>
+
+<div class="col three caption">
+	Ownership of land, 2018 Brownfield Register
 </div>
 
 The 2018 project - including code, open data, an assortment of data visualisations and the thesis - has been provided on <a href="https://github.com/lbuk/masters_dissertation">Github</a>.
