@@ -12,5 +12,5 @@ A Department for Transport-funded study that explored how machine learning and b
 </div>
 
 <div class="col three caption">
-	A data visualisation uses as part of the Policy Report. Car Vehicle Traffic in West Yorkshire, 1993-2016.
+	A data visualisation used as part of the short Policy Report. Car Vehicle Traffic in West Yorkshire, 1993-2016.
 </div>
