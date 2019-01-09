@@ -52,7 +52,7 @@
 .header-bar{
     left: 0px;
     top: 10px;
-    margin-top: 140px;
+    margin-top: 220px;
     position: fixed;
     font-size: 20px;
     display: block;
@@ -69,6 +69,7 @@
     h2{
         font-size: 25px;
     }
+    @include media-query($on-palm) {margin-top: 140px;}
 }
 
 /**
