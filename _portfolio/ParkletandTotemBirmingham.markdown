@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birmingham Parklet and Totem
-description: A parklet and tech totem for Birmingham
+description: A tech totem and parklet for Birmingham
 img: /img/birmingham_parklet.png
 ---
   
