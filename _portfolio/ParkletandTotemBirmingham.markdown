@@ -10,3 +10,7 @@ While working for <a href="http://www.redninja.co.uk/">Red Ninja Studios</a>, a 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/birmingham_parklet.png" alt="" title=""/>
 </div>
+
+<div class="col three caption">
+	The Totem and Parklet in Birmingham's Southside
+</div>
