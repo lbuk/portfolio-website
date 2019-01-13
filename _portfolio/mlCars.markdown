@@ -12,5 +12,5 @@ A <a href="https://www.gov.uk/government/organisations/department-for-transport"
 </div>
 
 <div class="col three caption">
-	Car Vehicle Traffic in West Yorkshire, 1993-2016. A chart used as part of the short Policy Report
+	Car Vehicle Traffic in West Yorkshire, 1993-2016. A chart used as part of the short Policy Report.
 </div>
