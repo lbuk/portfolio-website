@@ -12,7 +12,7 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 </div>
 
 <div class="col three caption">
-	A map comparing data from the 2009-2010 NLUD and the 2018 Brownfield Register in Upper Edmonton
+	A map comparing data from the 2009-2010 NLUD and the 2018 Brownfield Register in Upper Edmonton.
 </div>
 
 <br>
@@ -25,7 +25,7 @@ The tool for mapping brownfield land formed part of my MSc thesis at The Bartlet
 </div>
 
 <div class="col three caption">
-	Case studies and opportunity areas
+	Case studies and opportunity areas.
 </div>
 
 <br>
@@ -38,7 +38,7 @@ The aim of the research was to provide a spatial and temporal analysis of brownf
 </div>
 
 <div class="col three caption">
-	Hectares by London borough, 2018 Brownfield Register
+	Hectares by London borough, 2018 Brownfield Register.
 </div>
 
 <div class="col">
@@ -46,7 +46,7 @@ The aim of the research was to provide a spatial and temporal analysis of brownf
 </div>
 
 <div class="col three caption">
-	Ownership of land, 2018 Brownfield Register
+	Ownership of land, 2018 Brownfield Register.
 </div>
 
 The 2018 project - including code, open data, an assortment of data visualisations and the thesis - has been provided on <a href="https://github.com/lbuk/masters_dissertation">Github</a>.
