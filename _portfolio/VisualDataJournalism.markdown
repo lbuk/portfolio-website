@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data & Visual Journalism
+title: Data and Visual Journalism
 description: Data-Driven Stories and Projects
 img: /img/carbon_map.png
 ---
