@@ -250,6 +250,13 @@ object-fit: cover;
 box-sizing:border-box;
 padding: $img_spacing;
 }
+.col_sqpie{ 
+width: 175px;
+height: 206px;
+object-fit: cover;
+box-sizing:border-box;
+padding: $img_spacing;
+}
 .right{
 float: right;
 }
