@@ -42,7 +42,7 @@ The aim of the research was to provide a spatial and temporal analysis of brownf
 </div>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/br_2018_land_ownership_vii.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/br_2018_land_ownership.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
