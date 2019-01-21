@@ -41,7 +41,7 @@ The aim of the research was to provide a spatial and temporal analysis of brownf
 	Hectares by London borough, 2018 Brownfield Register.
 </div>
 
-<div class="col_sqpie">
+<div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/br_2018_land_ownership_sqpie.png" alt="" title=""/>
 </div>
 
