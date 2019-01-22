@@ -5,7 +5,7 @@ description: Using Machine Learning and Big Data to Model Car Dependency
 img: /img/DfT-Logo370x220.jpg
 ---
 
-A <a href="https://www.gov.uk/government/organisations/department-for-transport">Department for Transport</a>-funded study that explored how machine learning and big data can be used to model car dependency in West Yorkshire. I produced a short policy report as part of the project. Developed in collaboration with Dr Robin Lovelace at the Leeds Institute for Data Analytics, University of Leeds. The project can be viewed on <a href="https://github.com/Robinlovelace/mlCars">Github</a>.
+A <a href="https://www.gov.uk/government/organisations/department-for-transport">Department for Transport</a>-funded study that explored how machine learning and big data can be used to model car dependency in West Yorkshire. Developed in collaboration with Dr Robin Lovelace at the Leeds Institute for Data Analytics, University of Leeds, I produced a short report as part of the project that explored the policy implications of applying big data and machine learning to car dependency. The project has been open sourced on <a href="https://github.com/Robinlovelace/mlCars">Github</a>.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/wy_traffic_mlcars.png" alt="" title=""/>
