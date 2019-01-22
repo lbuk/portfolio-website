@@ -10,7 +10,7 @@ As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-distric
 	<img class="col" src="{{ site.baseurl }}/img/Flows_Chord.png" alt="" title=""/>
 </div>
 <div class="col three caption">
-	Visualising movement flows in Madrid using real-time sensor data.
+	Visualising flows in Madrid using real-time sensor data.
 </div>
 
 <div class="col">
@@ -18,5 +18,5 @@ As part of my work at <a href="http://isensing.co.uk/portfolios/chamberi-distric
 </div>
 
 <div class="col three caption">
-	Visualising real-time sensor data in Sao Paulo.
+	Charting real-time sensor data in Sao Paulo.
 </div>
