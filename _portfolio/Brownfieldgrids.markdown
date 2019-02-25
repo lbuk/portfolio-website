@@ -48,5 +48,3 @@ The aim of the research was to provide a spatial and temporal analysis of brownf
 <div class="col three caption">
 	Ownership of land, 2018 Brownfield Register.
 </div>
-
-The 2018 project - including code, open data, an assortment of data visualisations and the thesis - has been provided on <a href="https://github.com/lbuk/masters_dissertation">Github</a>.
