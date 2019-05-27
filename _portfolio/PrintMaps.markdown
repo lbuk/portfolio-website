@@ -2,7 +2,7 @@
 layout: post
 title: Print Maps
 description: A collection of print maps
-img: /img/paris_arc_circle_in_square.jpg
+img: /img/greater_london_building_footprints.jpg
 ---
 
 A collection of print maps.
