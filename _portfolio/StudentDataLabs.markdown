@@ -2,7 +2,7 @@
 layout: post
 title: Student Data Labs
 description: Data-Driven Innovation Labs
-img: /img/logo.png
+img: /img/logo_zoom.png
 ---
 
 Based in Leeds and established in 2015, <a href="https://studentdatalabs.com/">Student Data Labs</a> helped university students to gain highly sought-after data skills while working on real-world projects. As ex-Founder, I managed the Labs, which offered a collaborative space for university students from a variety of academic backgrounds to undertake real-world data projects. 
