@@ -5,7 +5,7 @@ description: Visualising Invisible Data with Rug Maps
 img: /img/rug_map_haringey_zoom.jpeg
 ---
   
-Working with built environment data, I often face the challenge of visualising data that isn't visible. Here I present experimental designs for a Rug Map, or a map with a rug plot. The aim of this Rug Map is to visualise seemingly invisible spatial data. The rug plot provides reference points along the x and y axes of the map.
+Working with built environment data, I often face the challenge of visualising data that isn't visible. Here I present experimental designs for a Rug Map, or a map with a rug plot. The aim of the Rug Map is to visualise seemingly invisible spatial data in polygon format. The rug plot provides reference points along the x and y axes of the map.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/rug_map_haringey.jpeg" alt="" title=""/>
