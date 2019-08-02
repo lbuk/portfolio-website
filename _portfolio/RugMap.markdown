@@ -16,9 +16,9 @@ Working with built environment data, I often face the challenge of visualising d
 </div>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/rug_map_haringey.jpeg" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/rug_map_merton.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Rug Map visualising land use data in the London Borough of Haringey.
+	Rug Map visualising land use data in the London Borough of Merton.
 </div>
