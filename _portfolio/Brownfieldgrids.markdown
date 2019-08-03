@@ -12,7 +12,7 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 </div>
 
 <div class="col three caption">
-	A map comparing data from the 2009-2010 NLUD and the 2018 Brownfield Register in Upper Edmonton.
+	Comparing data from the 2009-2010 NLUD and the 2018 Brownfield Register in Upper Edmonton.
 </div>
 
 <br>
@@ -23,7 +23,7 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 </div>
 
 <div class="col three caption">
-	A map showing OpenStreetMap brownfield sites in a Mile x Mile grid in Limehouse and the outline of the London Borough of Tower Hamlets.
+	Visualising OpenStreetMap brownfield sites in a Mile x Mile grid around Limehouse and the borough outline.
 </div>
 
 The tool for mapping brownfield land formed part of an MSc project at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.
