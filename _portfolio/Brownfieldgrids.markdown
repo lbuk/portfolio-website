@@ -26,6 +26,9 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 	OpenStreetMap brownfield sites in Limehouse.
 </div>
 
+<br>
+<br>
+
 The tool for mapping brownfield land formed part of an MSc project at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.
 
 <div class="col">
