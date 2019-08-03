@@ -2,7 +2,7 @@
 layout: post
 title: Mapping the Stratification of Buildings in 2D
 description: Visualising the horizontal stratification of buildings
-img: /img/volumetric_stratification_building_floors_zoom.png
+img: /img/volumetric_stratification_building_floors_ii.jpg
 ---
   
 Housing is volumetric. Data on the horizontal stratification of buildings, for instance, is three-dimensional. Traditional ways of mapping three-dimensional space in the built environment can be cluttered and difficult to read. How do you visualise the three-dimensional horizontal stratification of buildings in 2D in a way that's more intuitive?
@@ -15,10 +15,15 @@ Although there are several limitations to this highly abstracted technique, it c
 	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.png" alt="" title=""/>
 </div>
 
+<div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors_ii.jpg" alt="" title=""/>
+</div>
+
 <div class="col three caption">
 	Mapping the horizontal stratification of buildings in 2D. Airspace development is represented here as the highest floor of the building footprint.
 </div>
 
+<br>
 <br>
 
 <div class="col">
