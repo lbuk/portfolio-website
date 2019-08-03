@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Volumetric Stratification in 2D
 description: Visualising the horizontal stratification of buildings
-img: /img/volumetric_stratification_empty_housing_floors.png
+img: /img/volumetric_stratification_building_floors_zoom.png
 ---
   
 Housing is volumetric. Data on the horizontal stratification of buildings, for instance, is three-dimensional. Traditional ways of mapping volumetric 3D data on urban space can be difficult to read, particualarly for non-practitioners and communities. How do you visualise the three-dimensional horizontal stratification of buildings in 2D in a way that's more inituitive?
