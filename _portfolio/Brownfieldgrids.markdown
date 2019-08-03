@@ -39,6 +39,9 @@ The tool for mapping brownfield land formed part of an MSc project at The Bartle
 	Case studies and opportunity areas.
 </div>
 
+<br>
+<br>
+
 The aim of the project was to provide a spatial and temporal analysis of brownfield land at city-level, district-level and street-level using a variety of urban data sources such as the 2018 Brownfield Register, the 2009-2010 NLUD and OpenStreetMap. 
 
 In the process, the project not only developed the brownfieldgrids tool, it also revealed new insights about previously developed land in London between 2009-2010 and 2018. For example, it found that the total area of brownfield land in outer London increased between 2009-2010 and 2018 while brownfield land in inner London decreased. 
@@ -52,6 +55,8 @@ The study also found that small brownfield sites (i.e. less than 0.25 hectares i
 <div class="col three caption">
 	Hectares by London borough, 2018 Brownfield Register.
 </div>
+
+<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/br_2018_land_ownership_sqpie.png" alt="" title=""/>
