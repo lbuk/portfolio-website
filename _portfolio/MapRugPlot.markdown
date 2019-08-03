@@ -5,7 +5,7 @@ description: Visualising the Less Visible
 img: /img/rug_map_merton_zoom.jpeg
 ---
   
-How do you visualise urban data that is less visible? Here are experimental designs for maps with rug plots. The aim of this technique is to help visualise less visible spatial data. For example, maps with rug plots can be used to display building footprints and land use at borough-level.
+How do you visualise urban data that is less visible? Here are experimental designs for maps with rug plots. The aim of this minimalistic technique is to help visualise less visible spatial data. For example, maps with rug plots can be used to display building footprints and land use at borough-level.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/rug_map_haringey.jpeg" alt="" title=""/>
