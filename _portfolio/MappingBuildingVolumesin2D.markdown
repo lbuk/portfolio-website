@@ -12,7 +12,7 @@ A very experimental solution to this problem is to horizontally stratify buildin
 Although there are several limitations to this highly abstracted technique, it could in some cases provide an alternative to traditional ways of mapping volumetric built environment data. It could be used to visualise volumetric planning data - including the stratification of buildings - engagingly to communities.
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
