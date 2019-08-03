@@ -15,6 +15,9 @@ Experimental designs for maps with rug plots or 'Marginal Distribution Maps'. Th
 	Map with rug plot used to visualise land use data in the London Borough of Haringey.
 </div>
 
+<br>
+<br>
+
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/rug_map_merton.jpeg" alt="" title=""/>
 </div>
