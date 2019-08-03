@@ -19,11 +19,11 @@ Brownfieldgrids is an <a href="https://github.com/lbuk/brownfieldgrids">R packag
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/limehouse_osm_borough.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/limehouse_osm_satellite_map.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Visualising OpenStreetMap brownfield sites in a Mile x Mile grid around Limehouse and the borough outline.
+	OpenStreetMap brownfield sites in Limehouse.
 </div>
 
 The tool for mapping brownfield land formed part of an MSc project at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.
