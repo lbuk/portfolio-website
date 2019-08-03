@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping the Volumetric Stratification of Buildings in 2D
+title: Mapping the Stratification of Buildings in 2D
 description: Visualising the horizontal stratification of buildings
 img: /img/volumetric_stratification_building_floors_zoom.png
 ---
