@@ -34,7 +34,7 @@ Although there are several limitations to this highly abstracted technique, it c
 This technique can also be used to visualise two-dimensional spatial data such as the provision of affordable housing. Here, the site map has been heavily abstracted to create a square pie chart.
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/map_square_pie_chart.jpeg" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/abstracted_map_square_pie_chart.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
