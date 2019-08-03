@@ -12,10 +12,6 @@ A very experimental solution to this problem is to horizontally stratify maps of
 Although there are several limitations to this highly abstracted technique, it could provide an alternative way of mapping volumetric data on the stratification of buildings for communities.
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.png" alt="" title=""/>
-</div>
-
-<div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors_ii.jpg" alt="" title=""/>
 </div>
 
