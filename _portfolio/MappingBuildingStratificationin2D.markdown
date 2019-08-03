@@ -36,12 +36,12 @@ Although there are several limitations to this highly abstracted technique, it c
 
 <br>
 
-This technique can also be used to visualise two-dimensional spatial data such as the provision of affordable housing. Here, the site map has been heavily abstracted to create a square pie chart.
+Two-dimensional spatial data such as the percentage of affordable housing can also be visualised. Here, the site map has been heavily abstracted to create a square pie chart.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/abstracted_map_square_pie_chart.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	This map shows the provision of affordable housing (%) at 100 Bollo Lane, a brownfield site in the London Borough of Ealing. In this example, 1 square equals 1% and there are 100 squares.
+	This map shows the provision of affordable housing (%) at 100 Bollo Lane, a brownfield site in the London Borough of Ealing. 1 square equals 1%.
 </div>
