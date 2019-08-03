@@ -16,7 +16,7 @@ Although there are several limitations to this highly abstracted technique, it c
 </div>
 
 <div class="col three caption">
-	Mapping the horizontal stratification of buildings in 2D. Airspace development is represented here as the highest floor of the building footprint.
+	Mapping the horizontal stratification of buildings in 2D. The building footprint is horizontally subdivided and airspace development is represented as the highest floor.
 </div>
 
 <br>
