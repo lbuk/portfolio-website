@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Map with Rug Plot
-description: Visualising the Less Visible
+title: Marginal Distribution Maps
+description: Maps with rug plots
 img: /img/rug_map_merton_zoom.jpeg
 ---
   
-Experimental designs for a maps with rug plots. The aim of this minimalistic technique is to help visualise comparatively less visible built environment data. Maps with rug plots can be used to display building footprints and land use at borough-level.
+Experimental designs for maps with rug plots or 'Marginal Distribution Maps'. The aim of this minimalistic technique is to help visualise spatial data in polygon format. The Marginal Distribution Maps can be used to visualise building footprints and land use at borough-level, for example.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/rug_map_haringey.jpeg" alt="" title=""/>
