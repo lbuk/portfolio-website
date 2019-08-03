@@ -12,7 +12,7 @@ How do you visualise urban data that is less visible? Here are experimental desi
 </div>
 
 <div class="col three caption">
-	Rug Map visualising land use data in the London Borough of Haringey.
+	Map with rug plot applied to land use data in the London Borough of Haringey.
 </div>
 
 <div class="col">
@@ -20,5 +20,5 @@ How do you visualise urban data that is less visible? Here are experimental desi
 </div>
 
 <div class="col three caption">
-	Rug Map visualising land use data in the London Borough of Merton.
+	Map with rug plot applied to land use data in the London Borough of Merton.
 </div>
