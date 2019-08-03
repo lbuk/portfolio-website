@@ -24,5 +24,5 @@ Although there are several limitations to this highly abstracted technique, it c
 </div>
 
 <div class="col three caption">
-	Mapping the proportion of empty homes by floor.
+	Mapping the proportion of empty homes by floor. For each floor of the building footprint, 1 square equals approximately 0.5%.
 </div>
