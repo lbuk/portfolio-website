@@ -12,11 +12,15 @@ A very experimental solution to this problem is to horizontally stratify maps of
 Although there are several limitations to this highly abstracted technique, it could provide an alternative way of mapping volumetric data on the stratification of buildings for communities.
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors_ii.jpg" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.jpg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Mapping the horizontal stratification of buildings in 2D. The building footprint is horizontally subdivided and airspace development is represented as the highest floor.
+	Mapping the horizontal stratification of buildings in 2D. The building footprint is subdivided horizontally and airspace development is represented as the highest floor.
+</div>
+
+<div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors_ii.jpg" alt="" title=""/>
 </div>
 
 <br>
