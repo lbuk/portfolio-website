@@ -19,6 +19,10 @@ Although there are several limitations to this highly abstracted technique, it c
 	Mapping the horizontal stratification of buildings in 2D. The building footprint is horizontally subdivided and airspace development is represented as the highest floor.
 </div>
 
+<div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.jpeg" alt="" title=""/>
+</div>
+
 <br>
 <br>
 
