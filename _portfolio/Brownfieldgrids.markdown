@@ -57,6 +57,7 @@ The study also found that small brownfield sites (i.e. less than 0.25 hectares i
 </div>
 
 <br>
+<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/br_2018_land_ownership_sqpie.png" alt="" title=""/>
