@@ -20,7 +20,7 @@ Although there are several limitations to this highly abstracted technique, it c
 </div>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_empty_homes_floor.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_empty_housing.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
