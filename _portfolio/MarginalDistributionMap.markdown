@@ -5,14 +5,14 @@ description: Maps with rug plots
 img: /img/rug_map_merton_zoom.jpeg
 ---
   
-Marginal Distribution Maps, or maps with rug plots. The aim of this technique is to utilise rug plots to visualise data in polygon format. The Marginal Distribution Maps can be used to visualise building footprints and land use at borough-level, for example.
+Marginal Distribution Maps, or maps with rug plots. The aim of this technique is to utilise rug plots to show data in polygon format. The Marginal Distribution Maps can be used to visualise building footprints and land use at borough-level, for example.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/rug_map_haringey.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Map with rug plot used to visualise land use data in the London Borough of Haringey.
+	In this example, the Marginal Distribution Map is used to visualise land use data in the London Borough of Haringey.
 </div>
 
 <br>
@@ -23,5 +23,5 @@ Marginal Distribution Maps, or maps with rug plots. The aim of this technique is
 </div>
 
 <div class="col three caption">
-	The technique applied to land use data in the London Borough of Merton.
+	The Marginal Distribution Map applied to land use data in the London Borough of Merton.
 </div>
