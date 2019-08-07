@@ -25,6 +25,7 @@ Although there are several limitations to this highly abstracted technique, it c
 
 <br>
 <br>
+<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_empty_homes.jpg" alt="" title=""/>
