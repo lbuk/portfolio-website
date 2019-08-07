@@ -27,9 +27,9 @@ Although there are several limitations to this highly abstracted technique, it c
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_empty_housing_floors.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_empty_floors.jpg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Mapping the proportion of empty homes by floor.
+	Mapping the proportion of empty homes by building floor.
 </div>
