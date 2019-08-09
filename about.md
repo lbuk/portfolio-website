@@ -4,7 +4,7 @@ title: About
 permalink: /About/
 ---
 
-I'm a MPhil/PhD Architecture student at The Bartlett, UCL. My research explores techniques for mapping airspace development in London. I work at the intersection of design, data science and cities.
+I'm a MPhil/PhD Architectural Space and Computation student at The Bartlett, UCL. My research explores techniques for mapping airspace development in London. I work at the intersection of design, data science and cities.
 
 Specialising in GIS and data visualisation, I've worked with research labs, local authorities, government departments, non-profits, Innovation Labs and news agencies. I recently completed an MSc Smart Cities and Urban Analytics at the <a href="https://www.ucl.ac.uk/bartlett/casa/">Centre for Advanced Spatial Analysis (CASA)</a>, UCL. I subsequently worked as a Consultant for <a href="https://www.ucl.ac.uk/bartlett/architecture/">The Bartlett School of Architecture</a>.
 
