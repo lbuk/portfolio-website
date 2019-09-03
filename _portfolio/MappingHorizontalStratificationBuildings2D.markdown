@@ -9,7 +9,7 @@ Housing is volumetric. Data on the horizontal stratification of buildings, for i
 
 An experimental solution to this problem is to horizontally stratify maps of building footprints. These designs show building floors as horizontal strata in two-dimensional building footprints. The floors can therefore be stacked horizontally in abstracted maps of building footprints.
 
-Although there are several limitations to this highly abstracted technique, it could provide an alternative way of mapping volumetric data on the horizontal stratification of buildings for communities.
+Although there are several limitations to this highly abstracted technique, it could be used to create 'mental maps' of three-dimensional data. It could also provide an alternative way of mapping volumetric data on the horizontal stratification of buildings for communities.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.jpg" alt="" title=""/>
