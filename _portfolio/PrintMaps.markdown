@@ -15,6 +15,7 @@ A collection of print maps.
 </div>
 
 <br>
+<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/greater_london_building_footprints.jpg" alt="" title=""/>
@@ -23,6 +24,7 @@ A collection of print maps.
 	Buildings of London.
 </div>
 
+<br>
 <br>
 
 <div class="col">
@@ -42,6 +44,7 @@ A collection of print maps.
 	Deconstruction of Circle Inscribed in Square, Chandler, Arizona.
 </div>
 
+<br>
 <br>
 
 <div class="col">
