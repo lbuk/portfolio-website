@@ -48,7 +48,7 @@ A collection of print maps.
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/arizona_cha_phoenix_circle_in_square_3235sqm_ii.jpg" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/arizona_cha_phoenix_circle_in_square_3235sqm_ii.png" alt="" title=""/>
 </div>
 <div class="col caption">
 	Circle Inscribed in Square, Chandler, Arizona.
