@@ -33,6 +33,7 @@ A collection of print maps.
 </div>
 
 <br>
+<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/deconstruction_3235sqm_circle_inscribed_in_square_chandler_az.png" alt="" title=""/>
