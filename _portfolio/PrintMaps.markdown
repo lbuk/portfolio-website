@@ -21,7 +21,7 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/greater_london_building_footprints.jpg" alt="" title=""/>
 </div>
 <div class="col caption">
-	Buildings of London.
+	Buildings, London.
 </div>
 
 <br>
