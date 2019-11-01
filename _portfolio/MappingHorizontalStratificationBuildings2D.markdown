@@ -5,18 +5,18 @@ description: Visualising the horizontal stratification of buildings
 img: /img/volumetric_stratification_building_zoom.jpg
 ---
   
-Housing is volumetric. Data on the horizontal stratification of buildings, for instance, is three-dimensional. Traditional ways of mapping three-dimensional space in the built environment can be cluttered and difficult to read. How do you visualise the three-dimensional horizontal stratification of buildings in 2D in a way that's more intuitive?
+Housing is volumetric. Data on the horizontal stratification of ownership in buildings, for instance, is volumetric. However, traditional ways of mapping three-dimensional urban data can be cluttered and difficult to read.
 
-An experimental solution to this problem is to horizontally stratify maps of building footprints. These designs show building floors as horizontal strata in two-dimensional building footprints. The floors can therefore be stacked horizontally in abstracted maps of building footprints.
+An experimental solution to this problem is to horizontally stratify two-dimensional maps of building footprints. The designs below show building floors as horizontal strata. The floors can then be stacked in abstracted maps.
 
-Although there are several limitations to this highly abstracted technique, it could be used to create 'mental maps' of three-dimensional data. It could also provide an alternative way of mapping volumetric data on the horizontal stratification of buildings for communities.
+This technique could be used to create 'mental maps' of buildings using three-dimensional data. It could also provide an alternative way for communities to map volumetric data on the horizontal stratification of buildings.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.jpg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Mapping the horizontal stratification of buildings in 2D. The two-dimensional building footprint is stratified horizontally and airspace development is represented as the highest floor.
+	Mapping the horizontal stratification of buildings in 2D. The building footprint is stratified horizontally and the airspace development is represented as the highest floor.
 </div>
 
 <div class="col">
@@ -32,5 +32,5 @@ Although there are several limitations to this highly abstracted technique, it c
 </div>
 
 <div class="col three caption">
-	Mapping the proportion of empty homes by building floor.
+	Mapping the proportion of empty homes by floor.
 </div>
