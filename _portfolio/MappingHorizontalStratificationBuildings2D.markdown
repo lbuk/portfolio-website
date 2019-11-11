@@ -16,7 +16,7 @@ This technique could be used to create 'mental maps' of buildings using three-di
 </div>
 
 <div class="col three caption">
-	Mapping the horizontal stratification of buildings in 2D. The building footprint is stratified horizontally and the airspace development is represented as the highest floor.
+	The building footprint is stratified horizontally, showing the number of floors, and airspace development is represented as the highest floor.
 </div>
 
 <div class="col">
