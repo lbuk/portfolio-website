@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Subdivision Data
+title: Building Subdivision Data
 description: 3D data on the subdivision of buildings
 img: /img/numbers.png
 ---
 
-Data on the subdivision of buildings is scarce. Building subdivision - including the horizontal stratification of property by floor - is highly volumetric, making the creation of data a challenge for urban planners and designers.
+Data on the subdivision of buildings is scarce. Building subdivision - including the horizontal stratification of property by floor - is highly volumetric, making the creation and mapping of this data a challenge for planners and designers.
 
-A solution to this problem is to record three-dimensional (3D) subdivision by floor using a simple and intuitive set of numbers. Each number from left to right represents the ordering of the floors. The encoding of the numbers can illustrate whether subdivision has occurred on a floor or the number of homes added or subtracted as a result of subdivision. The set of numbers can then be added to urban datasets as variables.
+A solution to this problem is to record three-dimensional (3D) subdivision by floor using a simple and intuitive set of numbers. Each number from left to right represents the ordering of the floors. The encoding of the numbers illustrates whether subdivision has occurred on a floor or alternatively the number of homes added or subtracted as a result of subdivision. The set of numbers can then be added to urban datasets as variables.
 
 Binary vectors illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted on a floor as a result of subdivision (Figure 2). 
 
