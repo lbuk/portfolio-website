@@ -7,9 +7,9 @@ img: /img/numbers.png
 
 Data on the subdivision of buildings is scarce. Building subdivision - including the horizontal stratification of property by floor - is highly volumetric, making the creation of data a challenge for urban planners and designers.
 
-A solution to this problem is to record subdivision by floor using a simple and intuitive set of numbers. Each number from left to right represents the ordering of the floors. The encoding of the numbers can illustrate whether subdivision has occurred on a floor or the number of homes added or subtracted as a result of subdivision. 
+A solution to this problem is to record subdivision by floor using a simple and intuitive set of numbers. Each number from left to right represents the ordering of the floors. The encoding of the numbers can illustrate whether subdivision has occurred on a floor or the number of homes added or subtracted as a result of subdivision. The set of numbers can then be added to urban datasets as variables.
 
-Binary vectors illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted by floor as a result of building subdivision (Figure 2). 
+Binary vectors illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted on a floor as a result of subdivision (Figure 2). 
 
 This technique could be used by planners and designers to provide a better picture of building subdivision and housing density in cities.
 
