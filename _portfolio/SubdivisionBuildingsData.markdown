@@ -11,7 +11,7 @@ A solution to this problem is to record subdivision by floor using a simple and 
 
 Binary vectors illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted on a floor as a result of subdivision (Figure 2). 
 
-This technique could be used by planners and designers to provide a better picture of building subdivision and housing density in cities.
+This technique could be utilised by planners and designers to provide a better picture of building subdivision and housing density in cities.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/numbers_subdivision.png" alt="" title=""/>
