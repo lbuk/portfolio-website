@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Building Subdivision Data
-description: 3D data on the subdivision of buildings
+title: 3D Data on Building Subdivision
+description: A technique for recording 3D data on building subdivision
 img: /img/numbers.png
 ---
 
