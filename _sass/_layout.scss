@@ -79,16 +79,16 @@
 .site-footer {
     border-top: 1px solid $grey-color-dark;
     font-size: 10px;
-    background-color: $grey-color-dark;
+    background-color: #fff;
     padding: 2px;
-    color: #000000;
-    position:fixed;
+    color: #aaa;
+    position: fixed;
     text-align: center;
     opacity: 1;    
-    left:0px;
-    bottom:0px;
-    height:25px;
-    width:100%;
+    left: 0px;
+    bottom: 0px;
+    height: 25px;
+    width: 100%;
 }
 /**
  * Pagination   **********************************************************
