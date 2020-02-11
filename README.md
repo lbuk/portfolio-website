@@ -1,1 +1,1 @@
-Portfolio website built using Jekyll Folio and hosted on Github. © 2019 Liam Thomas Bolton
+Portfolio website built using Jekyll Folio and hosted on Github. © 2020 Liam Thomas Bolton
