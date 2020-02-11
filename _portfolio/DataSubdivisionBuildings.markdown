@@ -18,7 +18,7 @@ This new technique could be utilised by planners and designers to provide a bett
 </div>
 
 <div class="col three caption">
-	Figure 1. Each digit is encoded with a zero or a one. A zero encoding means that no subdivision has taken place on that floor (I). A one indicates that the floor has been subdivided (II). Here, subdivision has occurred on the third and sixth floors.
+	Figure 1. Each digit is encoded with a zero or a one. A zero encoding means that no subdivision has taken place on that floor (I). A one indicates that the floor has been subdivided (II). Here, subdivision has occurred on the third and sixth floors and would be recorded as '001001' in the dataset.
 </div>
 
 <div class="col">
