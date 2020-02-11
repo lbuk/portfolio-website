@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Data on Building Subdivision
+title: Subdivision Vectors
 description: A data structure for recording building subdivision by floor
 img: /img/numbers.png
 ---
