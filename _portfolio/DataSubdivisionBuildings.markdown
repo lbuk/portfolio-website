@@ -5,7 +5,7 @@ description: A technique for recording 3D data on building subdivision
 img: /img/numbers.png
 ---
 
-Data on the subdivision of buildings is scarce. Building subdivision - including the horizontal stratification of property by floor - is highly volumetric, making the creation and mapping of this data a challenge for planners and designers.
+Data on the subdivision of buildings is scarce and lacking in detail. Building subdivision - including the horizontal stratification of property by floor - is highly volumetric, making the creation and mapping of this data a challenge for planners and designers.
 
 A solution to this problem is to record three-dimensional (3D) subdivision by floor using a simple and intuitive set of numbers. Each number from left to right represents the ordering of the floors. The encoding of the numbers illustrates whether subdivision has occurred on a floor or alternatively the number of homes added or removed as a result of subdivision. The set of numbers can be added to urban datasets as part of variables.
 
