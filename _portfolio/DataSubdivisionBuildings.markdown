@@ -11,7 +11,7 @@ A solution to this problem is to record three-dimensional (3D) subdivision by fl
 
 A binary vector data structure can be used to illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted to a floor as a result of building subdivision (Figure 2). 
 
-This new technique could be utilised by planners and designers to provide a better picture of building subdivision and housing density in cities. It is inspired by the work of Steadman, Martin and March.
+This new technique, Subdivision Vectors, could be utilised by planners and designers to provide a better picture of building subdivision and housing density in cities. It is inspired by the work of Steadman, Martin and March.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/numbers_subdivision.png" alt="" title=""/>
