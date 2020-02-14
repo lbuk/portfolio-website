@@ -21,6 +21,9 @@ This new technique, Subdivision Vectors, could be utilised by planners and desig
 	Figure 1. Each digit is encoded with a zero or a one. A zero means that no subdivision has taken place on that floor (I). A one indicates that the floor has been subdivided (II). Here, subdivision has occurred on the third and sixth floors and would be recorded as '001001' in a dataset.
 </div>
 
+<br>
+<br>
+
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/numbers_homes_subdivision.png" alt="" title=""/>
 </div>
