@@ -22,7 +22,6 @@ This new technique, Subdivision Vectors, could be utilised by planners and desig
 </div>
 
 <br>
-<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/numbers_homes_subdivision.png" alt="" title=""/>
