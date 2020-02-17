@@ -28,5 +28,5 @@ This new technique, Subdivision Vectors, could be utilised by planners and desig
 </div>
 
 <div class="col three caption">
-	Figure 2. Each digit is encoded with the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor (I) and eight homes have been added on the top floor (II) through airspace development, for instance.
+	Figure 2. Each digit is encoded with the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor (I) and eight homes have been added on the top floor (II).
 </div>
