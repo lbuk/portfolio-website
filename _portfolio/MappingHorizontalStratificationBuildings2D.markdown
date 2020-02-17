@@ -2,7 +2,7 @@
 layout: post
 title: Mapping the Horizontal Stratification of Buildings in 2D
 description: Visualising the horizontal stratification of buildings
-img: /img/volumetric_stratification_building_zoom.jpg
+img: /img/volumetric_stratification_empty_homes.jpg
 ---
   
 Housing is volumetric. Data on the horizontal stratification of ownership in buildings, for instance, is volumetric. However, traditional ways of mapping three-dimensional urban data can be cluttered and difficult to read.
