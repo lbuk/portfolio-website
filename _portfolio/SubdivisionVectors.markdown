@@ -5,13 +5,13 @@ description: A data structure for recording building subdivision by floor
 img: /img/numbers.png
 ---
 
-Building subdivision - including the horizontal stratification of property by floor - is highly volumetric, making the creation and mapping of structured, machine-readable data on subdivision a challenge for planners and designers.
+Building subdivision is highly volumetric, making the creation of structured, machine-readable data on subdivision by floor a challenge for urban planners.
 
-A solution to this problem is to record subdivision by floor using a simple and machine-readable data structure consisting of a list of numbers. Each number represents the floor of a building. The encoding of the numbers illustrates whether subdivision has occurred on a floor or alternatively the number of homes added or removed as a result of subdivision. The list of numbers can be added to datasets as part of a new subdivision variable.
+A solution to this problem is to record subdivision by floor using a simple and machine-readable data structure consisting of a list of numbers. Each number represents the floor of a building. The encoding of the numbers illustrates whether subdivision has occurred on a floor or alternatively the number of homes added or removed as a result of subdivision. The list of numbers can be added to datasets as a new, structured variable on subdivision by floor.
 
 A binary vector data structure can be used to illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted to a floor as a result of building subdivision (Figure 2). 
 
-This technique, Subdivision Vectors, could be utilised by planners and designers to provide structured data on building subdivision by floor. This, in turn, could provide a better picture of building subdivision and housing density. It is inspired by the work of Steadman, Martin and March.
+This new technique, Subdivision Vectors, could be utilised by planners and designers to provide structured data on building subdivision by floor. This, in turn, could provide a better picture of building subdivision and housing density. It is inspired by the work of Steadman, Martin and March.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/numbers_subdivision.png" alt="" title=""/>
