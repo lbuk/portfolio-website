@@ -12,6 +12,14 @@ An experimental solution to this problem is to horizontally stratify 2D maps of 
 This technique could be used to create 'mental maps' of buildings using three-dimensional data. For example, it could provide an alternative way for communities to map the horizontal stratification of buildings and the verticalisation of empty housing.
 
 <div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_building_floors.jpg" alt="" title=""/>
+</div>
+
+<div class="col three caption">
+	Mapping the horizontal stratification of buildings in 2D. The building footprint is stratified horizontally, showing the number of floors. The floors have equal areas. Airspace development is represented as the highest floor.
+</div>
+
+<div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/volumetric_stratification_empty_homes.jpg" alt="" title=""/>
 </div>
 
