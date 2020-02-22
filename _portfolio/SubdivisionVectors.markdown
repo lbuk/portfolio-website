@@ -11,7 +11,7 @@ A solution to this problem is to record subdivision by floor using a simple and 
 
 A binary vector data structure can be used to illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted to a floor as a result of building subdivision (Figure 2). 
 
-This new technique, Subdivision Vectors, could be utilised by planners and designers to provide structured data on building subdivision by floor. The technique could also be utilised to provide a better picture of housing density in low-density and medium-density residential areas, for instance. It is inspired by the work of Steadman, Martin and March.
+This new technique, Subdivision Vectors, could be utilised by planners and designers to provide structured data on building subdivision by floor. The technique could be utilised to provide a better picture of housing density and the horizontal stratification of buildings. It is inspired by the work of Steadman, Martin and March.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/numbers_subdivision.png" alt="" title=""/>
@@ -28,5 +28,5 @@ This new technique, Subdivision Vectors, could be utilised by planners and desig
 </div>
 
 <div class="col three caption">
-	Figure 2. Each number is encoded with a count of the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor (I) and eight homes have been added on the top floor (II). For high-rise buildings it may be best to use spaces or vertical lines between the numbers.
+	Figure 2. Each number is encoded with a count of the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor (I) and eight homes have been added on the top floor (II).
 </div>
