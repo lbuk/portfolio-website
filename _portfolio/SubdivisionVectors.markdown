@@ -7,9 +7,9 @@ img: /img/numbers.png
 
 Building subdivision is highly volumetric, making the creation of structured, machine-readable data on subdivision by floor a challenge for urban planners and researchers.
 
-A solution to this problem is to record subdivision by floor using a simple and machine-readable data structure consisting of a list of numbers. Each number represents the floor of a building. The encoding of the numbers illustrates whether subdivision has occurred on a floor or alternatively the number of homes added or removed as a result of subdivision. The list of numbers can be added to datasets as a new, structured variable on subdivision by floor.
+A solution to this problem is to record subdivision by floor using a simple and machine-readable data structure consisting of a list of numbers. Each number represents the floor of a building. The encoding of the numbers illustrates whether subdivision has occurred on a floor or alternatively the number of homes added as a result of subdivision. The list of numbers can be added to datasets as a new, structured variable on subdivision by floor.
 
-A binary vector data structure can be used to illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added or subtracted to a floor as a result of building subdivision (Figure 2). 
+A binary vector data structure can be used to illustrate whether subdivision has occurred on a floor (Figure 1). Non-binary vectors can be used to show how many homes have been added to a floor as a result of building subdivision (Figure 2). For clarity it may be best to use spaces between the floor numbers to record the number of homes added to high-rise buildings or residential blocks through subdivision.
 
 This new technique, Subdivision Vectors, could be utilised by planners and designers to provide structured data on building subdivision by floor. The technique could be utilised to provide a better picture of housing density and the horizontal stratification of buildings. It is inspired by the work of Steadman, Martin and March.
 
@@ -28,5 +28,5 @@ This new technique, Subdivision Vectors, could be utilised by planners and desig
 </div>
 
 <div class="col three caption">
-	Figure 2. Each number is encoded with a count of the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor and eight homes have been added on the top floor. For high-rise buildings it may be best to use spaces between the floor numbers.
+	Figure 2. Each number is encoded with a count of the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor and eight homes have been added on the top floor. It may be best to use spaces between the floor numbers for blocks.
 </div>
