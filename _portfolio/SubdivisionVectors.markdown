@@ -14,19 +14,19 @@ A binary vector data structure can be used to illustrate whether subdivision has
 This new technique, Subdivision Vectors, could be utilised by planners and designers to provide structured data on building subdivision by floor. The technique could be utilised to provide a better picture of housing density and the horizontal stratification of buildings. It is inspired by the work of Steadman, Martin and March.
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/numbers_subdivision.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/subdivision_vectors.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Figure 1. Each digit is encoded with a zero or a one. A zero means that no subdivision has taken place on that floor (I). A one indicates that the floor has been subdivided (II). Here, subdivision has occurred on the third and sixth floors and would be recorded as '001001' in a dataset.
+	Figure 1. Each digit is encoded with a zero or a one. A zero means that no subdivision has taken place on that floor. A one indicates that the floor has been subdivided. Here, subdivision has occurred on the third and sixth floors and would be recorded as 001001.
 </div>
 
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/numbers_homes_subdivision.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/subdivision_vectors_homes.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
-	Figure 2. Each number is encoded with a count of the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor (I) and eight homes have been added on the top floor (II).
+	Figure 2. Each number is encoded with a count of the number of homes added or removed by floor due to subdivision. This diagram illustrates that zero homes have been added on the first floor and eight homes have been added on the top floor.
 </div>
