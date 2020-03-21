@@ -18,5 +18,5 @@ Fresnel's circles have been centred on Dulwich town centre in the London Borough
 </div>
 
 <div class="col three caption">
-	Fresnel Circle Map
+	Fresnel Map
 </div>
