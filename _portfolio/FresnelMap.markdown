@@ -11,6 +11,8 @@ Here, Fresnel's circles have been utilised as part of a novel cartographic techn
 
 Fresnel's circles have been centred on Dulwich town centre in the London Borough of Southwark. The circles have been mapped thematically using a random and illustrative dataset. Each 'doughnut' has the same area as the central circle, which has a radius of 100m. This mapping technique, titled the 'Fresnel Map', could be applied in the fields of spatial analysis and epidemiology.
 
+<br>
+
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/fresnel_circle_map.jpeg" alt="" title=""/>
 </div>
