@@ -2,7 +2,7 @@
 layout: post
 title: Fresnel Map
 description: A cartographic technique for addressing the Modifiable Areal Unit Problem (MAUP)
-img: /img/fresnel_circle_map.jpeg
+img: /img/fresnel_map.jpeg
 ---
 
 The Codex Atlanticus 221v-b depicts a diagram with a set of consecutive circles. Each crescent has the same area as the central circle. Utilised by the likes of Fresnel and March, this technique has been applied in various fields including architecture and civil engineering.
@@ -14,7 +14,7 @@ Fresnel's circles have been centred on Dulwich town centre in the London Borough
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/fresnel_circle_map.jpeg" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/fresnel_map.jpeg" alt="" title=""/>
 </div>
 
 <div class="col three caption">
