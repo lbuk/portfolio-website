@@ -28,5 +28,5 @@ Fresnel's circles have been centred on Dulwich town centre in the London Borough
 </div>
 
 <div class="col three caption">
-	Segmenting Fresnel's circles could provide a technique for creating equally-sized administrative districts when designing new cities.
+	By segmenting Fresnel's circles, designers of new cities could create equally-sized administrative districts.
 </div>
