@@ -23,10 +23,3 @@ Fresnel's circles have been centred on Dulwich town centre in the London Borough
 
 <br>
 
-<div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/fresnel_segment_city.jpeg" alt="" title=""/>
-</div>
-
-<div class="col three caption">
-	By segmenting Fresnel's circles, designers of new cities could create equally-sized administrative districts.
-</div>
