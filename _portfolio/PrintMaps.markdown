@@ -47,7 +47,7 @@ A collection of print maps.
 <div class="col caption">
 	Deconstruction of Circle Inscribed in Square, Chandler, Arizona.
 </div>
-
+ 
 <br>
 <br>
 
