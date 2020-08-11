@@ -11,7 +11,7 @@ Based in Leeds and established in 2015, <a href="https://studentdatalabs.com/">S
 	<img class="col" src="{{ site.baseurl }}/img/studentdatalabs.png" alt="" title=""/>
 </div>
 
-Sponsored by the <a href="http://lida.leeds.ac.uk/">Leeds Institute for Data Analytics</a> and the <a href="https://www.cdrc.ac.uk/">Consumer Data Research Centre</a>, Student Data Labs ran Innovation Labs between 2015-2016 in Leeds that focused on <a href="https://github.com/StudentDataLabs/HealthInnovationLab">health</a> and <a href="https://github.com/StudentDataLabs/VisionZeroInnovationLab">road casualties</a> and an Innovation Lab in 2016 in London that focused on <a href="https://github.com/StudentDataLabs/EmptyHousingInnovationLab">empty housing</a>. The Vision Zero Innovation Lab formed part of the 2016 <a href="https://leedsdigitalfestival.org/">Leeds Digital Festival</a>, the largest digital festival in the north.
+Sponsored by the <a href="http://lida.leeds.ac.uk/">Leeds Institute for Data Analytics</a> and the <a href="https://www.cdrc.ac.uk/">Consumer Data Research Centre</a>, Student Data Labs ran Innovation Labs between 2015-2016 in Leeds that focused on <a href="https://github.com/StudentDataLabs/VisionZeroInnovationLab">road casualties</a>, <a href="https://github.com/StudentDataLabs/EmptyHousingInnovationLab">empty housing</a> and <a href="https://github.com/StudentDataLabs/HealthInnovationLab">health</a>. The Vision Zero Innovation Lab also formed part of the 2016 <a href="https://leedsdigitalfestival.org/">Leeds Digital Festival</a>, the largest digital festival in the north of England.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/Photo - Empty Housing Innovation Lab.png" alt="" title=""/>
