@@ -16,7 +16,7 @@ Airspace Ratio (AR) and Airspace Floor Area Ratio (AFAR) are tools that, if util
 </div>
 
 <div class="col three caption">
-	Airspace Ratio Formula.
+	Airspace Ratio formula.
 </div>
 
 <br>
@@ -28,5 +28,5 @@ Airspace Ratio (AR) and Airspace Floor Area Ratio (AFAR) are tools that, if util
 </div>
 
 <div class="col three caption">
-	Airspace Floor Area Ratio Formula.
+	Airspace Floor Area Ratio formula.
 </div>
