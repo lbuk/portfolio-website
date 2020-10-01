@@ -20,6 +20,8 @@ Airspace Ratio (AR) and Airspace Floor Area Ratio (AFAR) are tools that, if util
 </div>
 
 <br>
+<br>
+<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/airspace_floor_area_ratio_formula.png" alt="" title=""/>
