@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airspace Ratio
-description: A New Tool for Measuring and Mapping Density
+description: A new tool for measuring and mapping density
 img: /img/ar_formula_ii.png
 ---
 
