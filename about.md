@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I work at the intersection of design, data science and cities. Specialising in GIS and data visualisation, I've created a number of novel mapping tools such as the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>.
+I work at the intersection of design, data science and cities. Specialising in GIS and data visualisation, I've developed a number of novel mapping tools such as the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>. I've also created new tools for measuring and mapping upward density.
 
 I'm currently a PhD Architectural Space and Computation student at <a href="https://www.ucl.ac.uk/bartlett/">The Bartlett</a>, UCL. My research explores techniques for mapping airspace development in London. I'm also a Fellow at <a href="http://www.createstreets.com/">Create Streets</a>. 
 
