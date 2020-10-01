@@ -2,7 +2,7 @@
 layout: post
 title: Airspace Ratio
 description: A new tool for measuring and mapping density
-img: /img/airspace_ratio_formula_img.png
+img: /img/ar.png
 ---
 
 As urban space dwindles, it will be increasingly important to explore new ways to measure and map densification.
