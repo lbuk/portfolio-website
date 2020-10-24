@@ -28,6 +28,16 @@ A collection of print maps.
 <br>
 
 <div class="col">
+	<img class="col" src="{{ site.baseurl }}/img/london_road_rail_map.png" alt="" title=""/>
+</div>
+<div class="col caption">
+	Rails and Roads, London.
+</div>
+
+<br>
+<br>
+
+<div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/southwark.jpeg" alt="" title=""/>
 </div>
 <div class="col caption">
