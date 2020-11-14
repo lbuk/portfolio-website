@@ -10,7 +10,7 @@ img: /img/density_abstractions_chart.png
 </div>
 
 <div class="col three caption">
-	Part I. The parameters of the algorithm include the number of storeys per building and the maximum storey for the scenarios. The algorithm, created in R, generates and charts all scenarios. Buildings are depicted as columns along the x-axis and storeys are depicted as blocks along the y-axis. The existing elevation is shown in grey and the upward extensions are shown in yellow.
+	Part I. The parameters of the algorithm include the number of storeys per building and the maximum storey for the scenarios. The algorithm, created in R, generates and charts all scenarios. Buildings are depicted as columns along the x-axis and storeys are depicted as blocks along the y-axis. The existing elevations are shown in grey and the upward extensions are shown in yellow.
 </div>
 
 <br>
@@ -22,7 +22,7 @@ img: /img/density_abstractions_chart.png
 </div>
 
 <div class="col three caption">
-	Part II. The user specifies the number of storeys per building and the algorithm generates and visualises all scenarios up to two storeys. Buildings are depicted as columns along the x-axis and storeys are depicted as blocks along the y-axis. The existing elevation is shown in grey and the upward extensions are shown in yellow.
+	Part II. The user specifies the number of storeys per building and the algorithm generates and visualises all scenarios up to two storeys. Buildings are depicted as columns along the x-axis and storeys are depicted as blocks along the y-axis. The existing elevations are shown in grey and the upward extensions are shown in yellow.
 </div>
 
 <br>
@@ -34,5 +34,5 @@ img: /img/density_abstractions_chart.png
 </div>
 
 <div class="col three caption">
-	Part III. The parametres include the minimum and maximum number of storeys for the scenarios. Buildings are depicted as columns along the x-axis and storeys are depicted as blocks along the y-axis. The generated scenarios are shown in grey and the extensions are shown in yellow.
+	Part III. The parametres include the minimum and maximum number of storeys for the scenarios. Buildings are depicted as columns along the x-axis and storeys are depicted as blocks along the y-axis. The generated scenarios are shown in grey.
 </div>
