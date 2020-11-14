@@ -2,7 +2,7 @@
 layout: post
 title: Density Abstractions
 description: Abstract Visualisations of Density Scenarios
-img: /img/density_abstractions_chart.png
+img: /img/density_abstractions.png
 ---
 
 <div class="col">
