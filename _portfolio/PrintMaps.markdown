@@ -28,7 +28,7 @@ A collection of print maps.
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/london_rail_and_road_map_minimalistic.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/london_lines_map.png" alt="" title=""/>
 </div>
 <div class="col caption">
 	Lines, London.
