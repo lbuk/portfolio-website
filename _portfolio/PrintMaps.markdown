@@ -31,7 +31,7 @@ A collection of print maps.
 	<img class="col" src="{{ site.baseurl }}/img/london_lines_map.png" alt="" title=""/>
 </div>
 <div class="col caption">
-	Lines, London.
+	Roads and Rails, London.
 </div>
 
 <br>
