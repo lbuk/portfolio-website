@@ -12,5 +12,5 @@ equiparate is an R package for creating comparative visualisations of urban dens
 </div>
 
 <div class="col three caption">
-	Charting sites with an equal number of dwellings using equiparate.
+	Comparing sites with an equal number of dwellings using equiparate and heatmaps.
 </div>
