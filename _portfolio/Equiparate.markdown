@@ -5,7 +5,7 @@ description: An R package for comparing measures of density
 img: /img/equal_dwellings_nrow3_ncol2_dwellings4_chart_zoom.png
 ---
 
-equiparate is an R package for creating comparative visualisations of urban density. The tool generates multiple heatmaps to compare measures of density. The package can be downloaded from <a href="https://github.com/lbuk/equiparate">Github</a>.
+Density can be measured in many ways and has been misinterpreted for over a century. equiparate is an R package for comparing measures of density. The tool generates heatmaps to compare density. The package can be downloaded from <a href="https://github.com/lbuk/equiparate">Github</a>.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/equal_dwellings_nrow3_ncol2_dwellings4_chart.png" alt="" title=""/>
