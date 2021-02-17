@@ -18,7 +18,6 @@ As urban space dwindles, it will be increasingly important to explore new ways t
 <br>
 <br>
 <br>
-<br>
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/afar_formula_portfolio.png" alt="" title=""/>
