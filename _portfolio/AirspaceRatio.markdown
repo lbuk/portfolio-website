@@ -2,7 +2,7 @@
 layout: post
 title: Airspace Ratio
 description: A new tool for measuring and mapping density
-img: /img/ar.png
+img: /img/ar_airspace_ratio.png
 ---
 
 As urban space dwindles, it will be increasingly important to explore new ways to measure and map densification. Airspace Ratio describes the ratio of the existing Floor Area Ratio to the Airspace Floor Area Ratio. The latter effectively creates a hypothetical, volumetric parcel of air that outlines buildable space according to the planning or policy context. Airspace Ratio is a new measure of density that calculates the extent to which buildings make use of space: the lower the Airspace Ratio, the more room there is for residential extensions, for instance.
