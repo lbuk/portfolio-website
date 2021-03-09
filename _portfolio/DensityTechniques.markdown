@@ -9,8 +9,6 @@ As urban space dwindles, it will be increasingly important to explore new ways t
 
 Air Rights Ratio (ARR) describes the ratio of the Air Rights Area (ARA) as outlined by the planning or policy context to the Total Existing Floorspace (EF). ARR is a new technique that calculates the extent to which buildings could make use of airspace: the higher the ARR, the more space there is for residential extensions. 
 
-Infill Development Ratio (IDR) is another new technique that refers to the ratio of the Infill Development Area (IDA) to the Total Existing Floorspace (EF). IDR can be utilised to measure the extent to which infill development - including a new rooftop extension, for example - makes use of existing built space.
-
 <br>
 
 <div class="col">
@@ -22,10 +20,13 @@ Infill Development Ratio (IDR) is another new technique that refers to the ratio
 </div>
 
 <br>
+
+Infill Development Ratio (IDR) is another new technique that refers to the ratio of the Infill Development Area (IDA) to the Total Existing Floorspace (EF). IDR can be utilised to measure the extent to which infill development - including a new rooftop extension, for example - makes use of existing built space.
+
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/infill_development_ratio_idr_formula.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/formula_for_infill_development_ratio_idr.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
