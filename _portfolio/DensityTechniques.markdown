@@ -14,7 +14,7 @@ Infill Development Ratio (IDR) is another new technique that refers to the ratio
 <br>
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/air_rights_ratio_arr_formula.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/formula_for_air_rights_ratio_arr.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
