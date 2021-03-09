@@ -19,6 +19,7 @@ Air Rights Ratio (ARR) describes the ratio of the Air Rights Area (ARA) as outli
 
 <br>
 <br>
+<br>
 
 Infill Development Ratio (IDR) is another new technique that refers to the ratio of the Infill Development Area (IDA) to the Air Rights Area (ARA). IDR can be utilised to measure the extent to which infill development - including a new rooftop extension, for example - makes use of airspace.
 
