@@ -2,7 +2,7 @@
 layout: post
 title: Density Techniques
 description: New techniques for measuring, mapping and simulating density
-img: /img/air_rights_ratio_arr_formula.png 
+img:
 ---
 
 As urban space dwindles, it will be increasingly important to explore new ways to measure, map and simulate densification. 
