@@ -53,7 +53,7 @@ The study also found that small brownfield sites (i.e. less than 0.25 hectares i
 </div>
 
 <div class="col three caption">
-	Hectares by London borough, 2018 Brownfield Register.
+	Brownfield land (Hectares) by London borough, 2018 Brownfield Register.
 </div>
 
 <br>
