@@ -12,5 +12,5 @@ As urban space dwindles, it will be increasingly important to explore new ways t
 </div>
 
 <div class="col three caption">
-	Air Rights Ratio.
+	Air Rights Ratio (ARR).
 </div>
