@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Distancing with Fresnel
+title: Fresnel and the Pandemic
 description: Comparing COVID-19 social distancing rules using the Fresnel Map
 img: /img/fresnel_map_coronavirus.png
 ---
