@@ -6,7 +6,7 @@ img: /img/fresnel_map_coronavirus.png
 ---
 
 **Background**  
-   Coronavirus is having an unprecedented effect on population health and society. A variety of measures have been implementented to tackle COVID-19. Social distancing is an important way of reducing the spread of the virus: the further away you are from other people, the less likely you are to get COVID-19. 
+   Coronavirus is having an unprecedented effect on population health and society. A variety of measures have been implementented to tackle COVID-19. While social distancing is by no means a substitute for wearing a face mask or getting vaccinated, it is an important way of reducing the spread of the virus. In summary, the further away you are from other people, the less likely you are to get COVID-19. 
 
 Social distancing measures <a href="https://www.bbc.co.uk/news/science-environment-52522460">differ from place to place</a>. While the UK recommends people maintain a distance of at least 2 metres, several countries - including France, China, Hong Kong, Denmark, Singapore and Lithuania - recommend a minimum distance of only 1 metre. In addition, other countries suggest a minimum distance of 1.4m (South Korea), 1.5m (Belgium, Australia, Italy, Spain, Greece, Netherlands, Germany, Portugal) or 1.8m (US). Comparing the effectiveness of the different social distancing rules is compounded by the Modifiable Areal Unit Problem (MAUP). The MAUP occurs when data is aggregated to the level of spaces or districts that may be unequal in terms of area.
 
