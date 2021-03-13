@@ -11,14 +11,10 @@ Social distancing measures <a href="https://www.bbc.co.uk/news/science-environme
 
 Comparing the effectiveness of the different social distancing rules is compounded by the Modifiable Areal Unit Problem (MAUP). The MAUP occurs when data is aggregated to the level of spaces or districts that may be unequal in terms of area.
 
-Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, the effectiveness of the various social distancing rules can be compared. According to Fresnel's circles, each 'doughnut' has the same area as the central circle. In this particular example, the radius of the central circle is 1m and the successive zones have radii of 1.41m, 1.73m, 2m, 2.24m, and 2.45m (see Figure 1). Alternatively, the zones can be altered by varying the radius of the central circle. The effectiveness of different social distancing rules can be compared using these zones.
+Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, the effectiveness of the various social distancing rules can be compared. According to Fresnel's circles, each 'doughnut' has the same area as the central circle. In this particular example, the radius of the central circle is 1m and the successive zones have radii of 1.41m, 1.73m, 2m, 2.24m, and 2.45m. Alternatively, the zones can be altered by varying the radius of the central circle. The effectiveness of different social distancing rules can be compared using these zones.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/pandemic_social_distancing_fresnel_circles_figure_1.png" alt="" title=""/>
-</div>
-
-<div class="col three caption">
-	Figure 1.
 </div>
 
 <br>
