@@ -12,7 +12,7 @@ Social distancing measures <a href="https://www.bbc.co.uk/news/science-environme
 Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, the effectiveness of the various social distancing rules can be compared. According to Fresnel's circles, each 'doughnut' has the same area as the central circle. In this particular example, the radius of the central circle is 1m and the successive zones have radii of 1.4m, 1.7m, 2m, 2.2m, and 2.4m (see Figure 1). Alternatively, the zones can be altered by varying the radius of the central circle. The effectiveness of social distancing rules can be compared using these zones.
 
 <div class="col">
-	<img class="col" src="{{ site.baseurl }}/img/social_distancing_fresnel_figure1.png" alt="" title=""/>
+	<img class="col" src="{{ site.baseurl }}/img/figure1_social_distancing_fresnel_circles.png" alt="" title=""/>
 </div>
 
 <div class="col three caption">
