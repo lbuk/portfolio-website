@@ -15,8 +15,6 @@ Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/p
 	<img class="col" src="{{ site.baseurl }}/img/social_distancing_fresnel_figure1.png" alt="" title=""/>
 </div>
 
-<br>
-
 <div class="col three caption">
 	Figure 1.
 </div>
