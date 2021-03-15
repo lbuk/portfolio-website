@@ -9,7 +9,7 @@ Coronavirus is having an unprecedented effect on population health and society. 
 
 Social distancing measures <a href="https://www.bbc.co.uk/news/science-environment-52522460">differ from place to place</a>. While the UK recommends people maintain a distance of at least 2 metres, several countries - including France, China, Hong Kong, Denmark, Singapore and Lithuania - recommend a minimum distance of only 1 metre. In addition, other countries suggest a minimum distance of 1.4m (South Korea), 1.5m (Belgium, Australia, Italy, Spain, Greece, Netherlands, Germany, Portugal) or 1.8m (US). 
 
-Comparing the effectiveness of the different social distancing rules is compounded by the Modifiable Areal Unit Problem (MAUP). The MAUP occurs when data is aggregated to the level of spaces or districts that may be unequal in terms of area.
+Comparing different social distancing rules and the spread of disease across different spatial scales are compounded by the Modifiable Areal Unit Problem (MAUP). The MAUP occurs when data is aggregated to the level of spaces or districts that may be unequal in terms of area.
 
 Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, the effectiveness of the various social distancing rules can be compared. According to Fresnel's circles, each 'doughnut' has the same area as the central circle. In this particular example, the radius of the central circle is 1m and the successive zones have radii of 1.41m, 1.73m, 2m, 2.24m, and 2.45m. Alternatively, the zones can be altered by varying the radius of the central circle.
 
@@ -25,4 +25,4 @@ Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/p
 
 By computing multiple scenarios, a hypothetical person with COVID-19 can be placed in the centre and the number of people that get the virus in each equally-sized zone can be counted. The zones can then be thematically mapped using the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, a novel cartographic technique.
 
-This technique has significant applications in epidemiology and policy-making. It could be utilised to address the MAUP in disease modelling and compare multiple pandemic measures.
+This technique has applications in epidemiology. It could be utilised to study the spread of airborne diseases, for example, and address the MAUP in epidemiology. The technique also has applications beyond coronavirus and social distancing and could be utilised to optimise future pandemic measures.
