@@ -25,4 +25,4 @@ Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/p
 
 By computing multiple scenarios, a hypothetical person with COVID-19 can be placed in the centre and the number of people that get the virus in each equally-sized zone can be counted. The zones can then be thematically mapped using the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, a novel cartographic technique.
 
-This technique has applications in epidemiology. It could be utilised to study the spread of airborne diseases, for example, and address the MAUP in epidemiology. The technique also has applications beyond coronavirus and social distancing and could be utilised to optimise future pandemic measures.
+This technique has a number of applications in the domain of epidemiology. It could be utilised to study the spread of airborne diseases and address the MAUP in epidemiology. Using the Fresnel Map, the spread of disease could additionally be mapped around an infrastructural node. The technique has applications beyond coronavirus and social distancing and could be utilised to optimise future measures.
