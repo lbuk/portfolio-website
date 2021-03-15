@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Social Distancing, Fresnel and the Modifiable Areal Unit Problem
-description: A method of comparing social distancing rules using Fresnel's circles
+description: A method of comparing the spread of disease using Fresnel's circles
 img: /img/social_distancing_fresnel.png
 ---
 
