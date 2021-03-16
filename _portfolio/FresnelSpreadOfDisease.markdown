@@ -7,7 +7,7 @@ img: /img/fresnel_epidemiology.png
 
 Comparing the spread of disease across different spatial scales is compounded by the Modifiable Areal Unit Problem (MAUP). The MAUP occurs when data is aggregated to the level of areas that may be unequal in terms of area. For example, the transmission of COVID-19 will differ based on spatial scale and this is reflected in the MAUP.
 
-Drawing on Fresnel's circles and the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, the spread of disease across different scales can be compared. According to Fresnel's circles, each zone has the same area as the central circle. In this illustrative example, the radius of the central circle is 1m and the successive zones have radii of 1.41m, 1.73m, 2m, 2.24m, and 2.45m. Alternatively, the zones can be altered by varying the radius of the central circle.
+Drawing on Fresnel's circles, the spread of disease across different scales can be compared. According to Fresnel's circles, each zone has the same area as the central circle. In this illustrative example, the radius of the central circle is 1m and the successive zones have radii of 1.41m, 1.73m, 2m, 2.24m, and 2.45m. Alternatively, the zones can be altered by varying the radius of the central circle.
 
 <div class="col">
 	<img class="col" src="{{ site.baseurl }}/img/fresnel_circles_spread_of_disease.png" alt="" title=""/>
