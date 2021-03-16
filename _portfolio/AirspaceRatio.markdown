@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airspace Ratio
-description: Measures and maps of the density potential
+description: Measuring and mapping the urban density potential
 img: /img/ar_airspace_ratio.png
 ---
 
