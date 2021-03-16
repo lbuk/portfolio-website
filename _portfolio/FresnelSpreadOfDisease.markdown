@@ -19,6 +19,6 @@ Drawing on Fresnel's circles, the spread of disease across different scales can 
 
 <br>
 
-By computing multiple scenarios, a hypothetical person with COVID-19 can be placed in the centre and the number of people that get the virus in each equally-sized zone can be counted, surmounting the MAUP. The counts across the zones can then be thematically mapped using the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, a novel cartographic technique.
+By computing multiple scenarios, a hypothetical person with a virus such as COVID-19 can be placed in the centre and the number of people that get the virus in each equally-sized zone can be counted, surmounting the MAUP. The counts across the zones can then be thematically mapped using the <a href="https://www.liamthomasbolton.com/portfolio/FresnelMap/">Fresnel Map</a>, a novel cartographic technique.
 
 This technique has a number of applications in the domain of epidemiology. It could be utilised to study the spread of airborne diseases and address the MAUP in disease mapping. Using the Fresnel Map, the spread of disease could additionally be mapped around an infrastructural node.
