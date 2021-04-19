@@ -15,7 +15,6 @@ Between 2017 and 2018 I worked as an Urban Data Analyst at <a href="http://www.r
 <hr/>
 <span class="contacticon center">
 	<a href="mailto:liamthomasbolton@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://www.linkedin.com/in/liam-thomas-bolton-b1976b72/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
     	<a href="https://github.com/lbuk" target="_blank"><i class="fa fa-github-square"></i></a>
 </span>
 
